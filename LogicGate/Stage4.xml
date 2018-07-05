@@ -1,0 +1,62 @@
+﻿<root>
+  <true>
+    <empty id="3-1">
+      <empty id="2-1">
+        <empty id="1-1">
+          <false></false>
+          <true></true>
+        </empty>
+        <empty id="1-2">
+          <false></false>
+          <true></true>
+        </empty>
+      </empty>
+      <empty id="2-2">
+        <empty id="1-2"><!--Omitted--></empty>
+        <empty id="1-3">
+          <true></true>
+          <true></true>
+        </empty>
+      </empty>
+    </empty>
+  </true>
+  <true>
+    <empty id="3-2">
+      <empty id="2-2"><!--Omitted--></empty>
+      <empty id="2-3">
+        <empty id="1-3"><!--Omitted--></empty>
+        <empty id="1-4">
+          <false></false>
+          <false></false>
+        </empty>
+      </empty>
+    </empty>
+  </true>
+  <true>
+    <empty id="3-3">
+      <empty id="2-2"><!--Omitted--></empty>
+      <empty id="2-3"><!--Omitted--></empty>
+    </empty>
+  </true>
+  <true>
+    <empty id="3-4">
+      <empty id="2-2"><!--Omitted--></empty>
+      <empty id="2-4">
+        <empty id="1-1"><!--Omitted--></empty>
+        <empty id="1-4"><!--Omitted--></empty>
+      </empty>
+    </empty>
+  </true>
+  <true>
+    <empty id="3-5">
+      <empty id="2-4"><!--Omitted--></empty>
+      <empty id="2-4"><!--Omitted--></empty>
+    </empty>
+  </true>
+  <true>
+    <empty id="3-6">
+      <empty id="2-1"><!--Omitted--></empty>
+      <empty id="2-4"><!--Omitted--></empty>
+    </empty>
+  </true>
+</root>

@@ -1,0 +1,15 @@
+﻿<root>
+  <true><empty id="3-1">
+    <not><empty id="1-1">
+      <true></true>
+      <true></true>
+    </empty></not>
+    <not><empty id="2-1">
+      <empty id="1-2">
+        <true></true>
+        <false></false>
+      </empty>
+      <true></true>
+    </empty></not>
+  </empty></true>
+</root>

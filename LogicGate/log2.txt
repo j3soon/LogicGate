@@ -1,0 +1,10882 @@
+solution 1:
+and
+and
+and
+and
+and
+or
+or
+or
+or
+solution 2:
+and
+and
+and
+and
+and
+or
+or
+or
+xor
+solution 3:
+and
+and
+and
+and
+and
+or
+or
+xor
+or
+solution 4:
+and
+and
+and
+and
+and
+or
+or
+xor
+xor
+solution 5:
+and
+and
+and
+and
+and
+or
+xor
+or
+or
+solution 6:
+and
+and
+and
+and
+and
+or
+xor
+or
+xor
+solution 7:
+and
+and
+and
+and
+and
+or
+xor
+xor
+or
+solution 8:
+and
+and
+and
+and
+and
+xor
+or
+or
+or
+solution 9:
+and
+and
+and
+and
+and
+xor
+or
+or
+xor
+solution 10:
+and
+and
+and
+and
+and
+xor
+or
+xor
+or
+solution 11:
+and
+and
+and
+and
+and
+xor
+xor
+or
+or
+solution 25:
+and
+and
+and
+and
+or
+or
+or
+or
+and
+solution 26:
+and
+and
+and
+and
+or
+or
+or
+or
+or
+solution 27:
+and
+and
+and
+and
+or
+or
+or
+or
+xor
+solution 28:
+and
+and
+and
+and
+or
+or
+or
+xor
+and
+solution 29:
+and
+and
+and
+and
+or
+or
+or
+xor
+or
+solution 30:
+and
+and
+and
+and
+or
+or
+or
+xor
+xor
+solution 33:
+and
+and
+and
+and
+or
+or
+xor
+or
+and
+solution 34:
+and
+and
+and
+and
+or
+or
+xor
+or
+or
+solution 35:
+and
+and
+and
+and
+or
+or
+xor
+or
+xor
+solution 36:
+and
+and
+and
+and
+or
+or
+xor
+xor
+and
+solution 37:
+and
+and
+and
+and
+or
+or
+xor
+xor
+or
+solution 43:
+and
+and
+and
+and
+or
+xor
+or
+or
+and
+solution 44:
+and
+and
+and
+and
+or
+xor
+or
+or
+or
+solution 45:
+and
+and
+and
+and
+or
+xor
+or
+or
+xor
+solution 46:
+and
+and
+and
+and
+or
+xor
+or
+xor
+and
+solution 47:
+and
+and
+and
+and
+or
+xor
+or
+xor
+or
+solution 49:
+and
+and
+and
+and
+or
+xor
+xor
+or
+and
+solution 50:
+and
+and
+and
+and
+or
+xor
+xor
+or
+or
+solution 55:
+and
+and
+and
+and
+xor
+or
+and
+or
+or
+solution 56:
+and
+and
+and
+and
+xor
+or
+and
+or
+xor
+solution 57:
+and
+and
+and
+and
+xor
+or
+and
+xor
+or
+solution 58:
+and
+and
+and
+and
+xor
+or
+or
+and
+or
+solution 59:
+and
+and
+and
+and
+xor
+or
+or
+and
+xor
+solution 60:
+and
+and
+and
+and
+xor
+or
+or
+or
+and
+solution 61:
+and
+and
+and
+and
+xor
+or
+or
+or
+or
+solution 62:
+and
+and
+and
+and
+xor
+or
+or
+or
+xor
+solution 63:
+and
+and
+and
+and
+xor
+or
+or
+xor
+and
+solution 64:
+and
+and
+and
+and
+xor
+or
+or
+xor
+or
+solution 65:
+and
+and
+and
+and
+xor
+or
+xor
+and
+or
+solution 68:
+and
+and
+and
+and
+xor
+xor
+and
+or
+or
+solution 69:
+and
+and
+and
+and
+xor
+xor
+or
+and
+or
+solution 70:
+and
+and
+and
+and
+xor
+xor
+or
+or
+and
+solution 71:
+and
+and
+and
+and
+xor
+xor
+or
+or
+or
+solution 72:
+and
+and
+and
+or
+and
+and
+or
+or
+or
+solution 73:
+and
+and
+and
+or
+and
+and
+or
+or
+xor
+solution 74:
+and
+and
+and
+or
+and
+and
+or
+xor
+or
+solution 75:
+and
+and
+and
+or
+and
+and
+or
+xor
+xor
+solution 76:
+and
+and
+and
+or
+and
+and
+xor
+or
+or
+solution 77:
+and
+and
+and
+or
+and
+and
+xor
+or
+xor
+solution 78:
+and
+and
+and
+or
+and
+and
+xor
+xor
+or
+solution 85:
+and
+and
+and
+or
+and
+or
+or
+or
+and
+solution 86:
+and
+and
+and
+or
+and
+or
+or
+or
+or
+solution 87:
+and
+and
+and
+or
+and
+or
+or
+or
+xor
+solution 88:
+and
+and
+and
+or
+and
+or
+or
+xor
+and
+solution 89:
+and
+and
+and
+or
+and
+or
+or
+xor
+or
+solution 90:
+and
+and
+and
+or
+and
+or
+or
+xor
+xor
+solution 93:
+and
+and
+and
+or
+and
+or
+xor
+or
+and
+solution 94:
+and
+and
+and
+or
+and
+or
+xor
+or
+or
+solution 95:
+and
+and
+and
+or
+and
+or
+xor
+or
+xor
+solution 96:
+and
+and
+and
+or
+and
+or
+xor
+xor
+and
+solution 97:
+and
+and
+and
+or
+and
+or
+xor
+xor
+or
+solution 103:
+and
+and
+and
+or
+and
+xor
+or
+or
+and
+solution 104:
+and
+and
+and
+or
+and
+xor
+or
+or
+or
+solution 105:
+and
+and
+and
+or
+and
+xor
+or
+or
+xor
+solution 106:
+and
+and
+and
+or
+and
+xor
+or
+xor
+and
+solution 107:
+and
+and
+and
+or
+and
+xor
+or
+xor
+or
+solution 109:
+and
+and
+and
+or
+and
+xor
+xor
+or
+and
+solution 110:
+and
+and
+and
+or
+and
+xor
+xor
+or
+or
+solution 141:
+and
+and
+and
+or
+or
+or
+or
+or
+and
+solution 142:
+and
+and
+and
+or
+or
+or
+or
+or
+xor
+solution 143:
+and
+and
+and
+or
+or
+or
+or
+xor
+and
+solution 144:
+and
+and
+and
+or
+or
+or
+or
+xor
+or
+solution 145:
+and
+and
+and
+or
+or
+or
+or
+xor
+xor
+solution 149:
+and
+and
+and
+or
+or
+or
+xor
+or
+and
+solution 150:
+and
+and
+and
+or
+or
+or
+xor
+or
+or
+solution 151:
+and
+and
+and
+or
+or
+or
+xor
+or
+xor
+solution 152:
+and
+and
+and
+or
+or
+or
+xor
+xor
+and
+solution 153:
+and
+and
+and
+or
+or
+or
+xor
+xor
+or
+solution 164:
+and
+and
+and
+or
+or
+xor
+or
+or
+and
+solution 165:
+and
+and
+and
+or
+or
+xor
+or
+or
+or
+solution 166:
+and
+and
+and
+or
+or
+xor
+or
+or
+xor
+solution 167:
+and
+and
+and
+or
+or
+xor
+or
+xor
+and
+solution 168:
+and
+and
+and
+or
+or
+xor
+or
+xor
+or
+solution 171:
+and
+and
+and
+or
+or
+xor
+xor
+or
+and
+solution 172:
+and
+and
+and
+or
+or
+xor
+xor
+or
+or
+solution 188:
+and
+and
+and
+or
+xor
+or
+and
+or
+and
+solution 189:
+and
+and
+and
+or
+xor
+or
+and
+or
+or
+solution 190:
+and
+and
+and
+or
+xor
+or
+and
+or
+xor
+solution 191:
+and
+and
+and
+or
+xor
+or
+and
+xor
+and
+solution 192:
+and
+and
+and
+or
+xor
+or
+and
+xor
+or
+solution 193:
+and
+and
+and
+or
+xor
+or
+or
+and
+and
+solution 194:
+and
+and
+and
+or
+xor
+or
+or
+and
+or
+solution 195:
+and
+and
+and
+or
+xor
+or
+or
+and
+xor
+solution 196:
+and
+and
+and
+or
+xor
+or
+or
+or
+and
+solution 197:
+and
+and
+and
+or
+xor
+or
+or
+or
+or
+solution 198:
+and
+and
+and
+or
+xor
+or
+or
+or
+xor
+solution 199:
+and
+and
+and
+or
+xor
+or
+or
+xor
+and
+solution 200:
+and
+and
+and
+or
+xor
+or
+or
+xor
+or
+solution 201:
+and
+and
+and
+or
+xor
+or
+xor
+and
+and
+solution 202:
+and
+and
+and
+or
+xor
+or
+xor
+and
+or
+solution 206:
+and
+and
+and
+or
+xor
+xor
+and
+or
+and
+solution 207:
+and
+and
+and
+or
+xor
+xor
+and
+or
+or
+solution 208:
+and
+and
+and
+or
+xor
+xor
+or
+and
+and
+solution 209:
+and
+and
+and
+or
+xor
+xor
+or
+and
+or
+solution 210:
+and
+and
+and
+or
+xor
+xor
+or
+or
+and
+solution 211:
+and
+and
+and
+or
+xor
+xor
+or
+or
+or
+solution 212:
+and
+and
+and
+xor
+and
+and
+or
+or
+or
+solution 213:
+and
+and
+and
+xor
+and
+and
+or
+or
+xor
+solution 214:
+and
+and
+and
+xor
+and
+and
+or
+xor
+or
+solution 215:
+and
+and
+and
+xor
+and
+and
+xor
+or
+or
+solution 216:
+and
+and
+and
+xor
+and
+or
+and
+or
+or
+solution 217:
+and
+and
+and
+xor
+and
+or
+and
+or
+xor
+solution 218:
+and
+and
+and
+xor
+and
+or
+and
+xor
+or
+solution 219:
+and
+and
+and
+xor
+and
+or
+or
+and
+or
+solution 220:
+and
+and
+and
+xor
+and
+or
+or
+and
+xor
+solution 221:
+and
+and
+and
+xor
+and
+or
+or
+or
+and
+solution 222:
+and
+and
+and
+xor
+and
+or
+or
+or
+or
+solution 223:
+and
+and
+and
+xor
+and
+or
+or
+or
+xor
+solution 224:
+and
+and
+and
+xor
+and
+or
+or
+xor
+and
+solution 225:
+and
+and
+and
+xor
+and
+or
+or
+xor
+or
+solution 226:
+and
+and
+and
+xor
+and
+or
+xor
+and
+or
+solution 229:
+and
+and
+and
+xor
+and
+xor
+and
+or
+or
+solution 230:
+and
+and
+and
+xor
+and
+xor
+or
+and
+or
+solution 231:
+and
+and
+and
+xor
+and
+xor
+or
+or
+and
+solution 232:
+and
+and
+and
+xor
+and
+xor
+or
+or
+or
+solution 236:
+and
+and
+and
+xor
+or
+and
+or
+and
+or
+solution 237:
+and
+and
+and
+xor
+or
+and
+or
+and
+xor
+solution 238:
+and
+and
+and
+xor
+or
+and
+or
+or
+and
+solution 239:
+and
+and
+and
+xor
+or
+and
+or
+or
+or
+solution 240:
+and
+and
+and
+xor
+or
+and
+or
+or
+xor
+solution 241:
+and
+and
+and
+xor
+or
+and
+or
+xor
+and
+solution 242:
+and
+and
+and
+xor
+or
+and
+or
+xor
+or
+solution 243:
+and
+and
+and
+xor
+or
+and
+xor
+and
+or
+solution 244:
+and
+and
+and
+xor
+or
+and
+xor
+or
+and
+solution 245:
+and
+and
+and
+xor
+or
+and
+xor
+or
+or
+solution 256:
+and
+and
+and
+xor
+or
+or
+or
+or
+and
+solution 257:
+and
+and
+and
+xor
+or
+or
+or
+or
+or
+solution 258:
+and
+and
+and
+xor
+or
+or
+or
+or
+xor
+solution 259:
+and
+and
+and
+xor
+or
+or
+or
+xor
+and
+solution 260:
+and
+and
+and
+xor
+or
+or
+or
+xor
+or
+solution 263:
+and
+and
+and
+xor
+or
+or
+xor
+or
+and
+solution 264:
+and
+and
+and
+xor
+or
+or
+xor
+or
+or
+solution 270:
+and
+and
+and
+xor
+or
+xor
+or
+or
+and
+solution 271:
+and
+and
+and
+xor
+or
+xor
+or
+or
+or
+solution 273:
+and
+and
+and
+xor
+xor
+and
+or
+and
+or
+solution 274:
+and
+and
+and
+xor
+xor
+and
+or
+or
+and
+solution 275:
+and
+and
+and
+xor
+xor
+and
+or
+or
+or
+solution 281:
+and
+and
+and
+xor
+xor
+or
+or
+or
+and
+solution 282:
+and
+and
+and
+xor
+xor
+or
+or
+or
+or
+solution 283:
+and
+and
+or
+and
+and
+and
+or
+or
+or
+solution 284:
+and
+and
+or
+and
+and
+and
+or
+or
+xor
+solution 285:
+and
+and
+or
+and
+and
+and
+or
+xor
+or
+solution 286:
+and
+and
+or
+and
+and
+and
+or
+xor
+xor
+solution 287:
+and
+and
+or
+and
+and
+and
+xor
+or
+or
+solution 288:
+and
+and
+or
+and
+and
+and
+xor
+or
+xor
+solution 289:
+and
+and
+or
+and
+and
+and
+xor
+xor
+or
+solution 296:
+and
+and
+or
+and
+and
+or
+or
+or
+and
+solution 297:
+and
+and
+or
+and
+and
+or
+or
+or
+or
+solution 298:
+and
+and
+or
+and
+and
+or
+or
+or
+xor
+solution 299:
+and
+and
+or
+and
+and
+or
+or
+xor
+and
+solution 300:
+and
+and
+or
+and
+and
+or
+or
+xor
+or
+solution 301:
+and
+and
+or
+and
+and
+or
+or
+xor
+xor
+solution 304:
+and
+and
+or
+and
+and
+or
+xor
+or
+and
+solution 305:
+and
+and
+or
+and
+and
+or
+xor
+or
+or
+solution 306:
+and
+and
+or
+and
+and
+or
+xor
+or
+xor
+solution 307:
+and
+and
+or
+and
+and
+or
+xor
+xor
+and
+solution 308:
+and
+and
+or
+and
+and
+or
+xor
+xor
+or
+solution 314:
+and
+and
+or
+and
+and
+xor
+or
+or
+and
+solution 315:
+and
+and
+or
+and
+and
+xor
+or
+or
+or
+solution 316:
+and
+and
+or
+and
+and
+xor
+or
+or
+xor
+solution 317:
+and
+and
+or
+and
+and
+xor
+or
+xor
+and
+solution 318:
+and
+and
+or
+and
+and
+xor
+or
+xor
+or
+solution 320:
+and
+and
+or
+and
+and
+xor
+xor
+or
+and
+solution 321:
+and
+and
+or
+and
+and
+xor
+xor
+or
+or
+solution 352:
+and
+and
+or
+and
+or
+or
+or
+or
+and
+solution 353:
+and
+and
+or
+and
+or
+or
+or
+or
+xor
+solution 354:
+and
+and
+or
+and
+or
+or
+or
+xor
+and
+solution 355:
+and
+and
+or
+and
+or
+or
+or
+xor
+or
+solution 356:
+and
+and
+or
+and
+or
+or
+or
+xor
+xor
+solution 360:
+and
+and
+or
+and
+or
+or
+xor
+or
+and
+solution 361:
+and
+and
+or
+and
+or
+or
+xor
+or
+or
+solution 362:
+and
+and
+or
+and
+or
+or
+xor
+or
+xor
+solution 363:
+and
+and
+or
+and
+or
+or
+xor
+xor
+and
+solution 364:
+and
+and
+or
+and
+or
+or
+xor
+xor
+or
+solution 375:
+and
+and
+or
+and
+or
+xor
+or
+or
+and
+solution 376:
+and
+and
+or
+and
+or
+xor
+or
+or
+or
+solution 377:
+and
+and
+or
+and
+or
+xor
+or
+or
+xor
+solution 378:
+and
+and
+or
+and
+or
+xor
+or
+xor
+and
+solution 379:
+and
+and
+or
+and
+or
+xor
+or
+xor
+or
+solution 382:
+and
+and
+or
+and
+or
+xor
+xor
+or
+and
+solution 383:
+and
+and
+or
+and
+or
+xor
+xor
+or
+or
+solution 399:
+and
+and
+or
+and
+xor
+or
+and
+or
+and
+solution 400:
+and
+and
+or
+and
+xor
+or
+and
+or
+or
+solution 401:
+and
+and
+or
+and
+xor
+or
+and
+or
+xor
+solution 402:
+and
+and
+or
+and
+xor
+or
+and
+xor
+and
+solution 403:
+and
+and
+or
+and
+xor
+or
+and
+xor
+or
+solution 404:
+and
+and
+or
+and
+xor
+or
+or
+and
+and
+solution 405:
+and
+and
+or
+and
+xor
+or
+or
+and
+or
+solution 406:
+and
+and
+or
+and
+xor
+or
+or
+and
+xor
+solution 407:
+and
+and
+or
+and
+xor
+or
+or
+or
+and
+solution 408:
+and
+and
+or
+and
+xor
+or
+or
+or
+or
+solution 409:
+and
+and
+or
+and
+xor
+or
+or
+or
+xor
+solution 410:
+and
+and
+or
+and
+xor
+or
+or
+xor
+and
+solution 411:
+and
+and
+or
+and
+xor
+or
+or
+xor
+or
+solution 412:
+and
+and
+or
+and
+xor
+or
+xor
+and
+and
+solution 413:
+and
+and
+or
+and
+xor
+or
+xor
+and
+or
+solution 417:
+and
+and
+or
+and
+xor
+xor
+and
+or
+and
+solution 418:
+and
+and
+or
+and
+xor
+xor
+and
+or
+or
+solution 419:
+and
+and
+or
+and
+xor
+xor
+or
+and
+and
+solution 420:
+and
+and
+or
+and
+xor
+xor
+or
+and
+or
+solution 421:
+and
+and
+or
+and
+xor
+xor
+or
+or
+and
+solution 422:
+and
+and
+or
+and
+xor
+xor
+or
+or
+or
+solution 427:
+and
+and
+or
+or
+and
+and
+or
+and
+or
+solution 428:
+and
+and
+or
+or
+and
+and
+or
+and
+xor
+solution 429:
+and
+and
+or
+or
+and
+and
+or
+or
+and
+solution 430:
+and
+and
+or
+or
+and
+and
+or
+or
+or
+solution 431:
+and
+and
+or
+or
+and
+and
+or
+or
+xor
+solution 432:
+and
+and
+or
+or
+and
+and
+or
+xor
+and
+solution 433:
+and
+and
+or
+or
+and
+and
+or
+xor
+or
+solution 434:
+and
+and
+or
+or
+and
+and
+or
+xor
+xor
+solution 435:
+and
+and
+or
+or
+and
+and
+xor
+and
+or
+solution 436:
+and
+and
+or
+or
+and
+and
+xor
+and
+xor
+solution 437:
+and
+and
+or
+or
+and
+and
+xor
+or
+and
+solution 438:
+and
+and
+or
+or
+and
+and
+xor
+or
+or
+solution 439:
+and
+and
+or
+or
+and
+and
+xor
+or
+xor
+solution 440:
+and
+and
+or
+or
+and
+and
+xor
+xor
+and
+solution 441:
+and
+and
+or
+or
+and
+and
+xor
+xor
+or
+solution 453:
+and
+and
+or
+or
+and
+or
+or
+or
+and
+solution 454:
+and
+and
+or
+or
+and
+or
+or
+or
+xor
+solution 455:
+and
+and
+or
+or
+and
+or
+or
+xor
+and
+solution 456:
+and
+and
+or
+or
+and
+or
+or
+xor
+or
+solution 457:
+and
+and
+or
+or
+and
+or
+or
+xor
+xor
+solution 461:
+and
+and
+or
+or
+and
+or
+xor
+or
+and
+solution 462:
+and
+and
+or
+or
+and
+or
+xor
+or
+or
+solution 463:
+and
+and
+or
+or
+and
+or
+xor
+or
+xor
+solution 464:
+and
+and
+or
+or
+and
+or
+xor
+xor
+and
+solution 465:
+and
+and
+or
+or
+and
+or
+xor
+xor
+or
+solution 476:
+and
+and
+or
+or
+and
+xor
+or
+or
+and
+solution 477:
+and
+and
+or
+or
+and
+xor
+or
+or
+or
+solution 478:
+and
+and
+or
+or
+and
+xor
+or
+or
+xor
+solution 479:
+and
+and
+or
+or
+and
+xor
+or
+xor
+and
+solution 480:
+and
+and
+or
+or
+and
+xor
+or
+xor
+or
+solution 483:
+and
+and
+or
+or
+and
+xor
+xor
+or
+and
+solution 484:
+and
+and
+or
+or
+and
+xor
+xor
+or
+or
+solution 519:
+and
+and
+or
+or
+or
+or
+or
+xor
+and
+solution 520:
+and
+and
+or
+or
+or
+or
+or
+xor
+xor
+solution 524:
+and
+and
+or
+or
+or
+or
+xor
+or
+and
+solution 525:
+and
+and
+or
+or
+or
+or
+xor
+or
+xor
+solution 526:
+and
+and
+or
+or
+or
+or
+xor
+xor
+and
+solution 527:
+and
+and
+or
+or
+or
+or
+xor
+xor
+or
+solution 539:
+and
+and
+or
+or
+or
+xor
+or
+or
+and
+solution 540:
+and
+and
+or
+or
+or
+xor
+or
+or
+xor
+solution 541:
+and
+and
+or
+or
+or
+xor
+or
+xor
+and
+solution 542:
+and
+and
+or
+or
+or
+xor
+or
+xor
+or
+solution 545:
+and
+and
+or
+or
+or
+xor
+xor
+or
+and
+solution 546:
+and
+and
+or
+or
+or
+xor
+xor
+or
+or
+solution 569:
+and
+and
+or
+or
+xor
+or
+and
+or
+and
+solution 570:
+and
+and
+or
+or
+xor
+or
+and
+or
+or
+solution 571:
+and
+and
+or
+or
+xor
+or
+and
+or
+xor
+solution 572:
+and
+and
+or
+or
+xor
+or
+and
+xor
+and
+solution 573:
+and
+and
+or
+or
+xor
+or
+and
+xor
+or
+solution 574:
+and
+and
+or
+or
+xor
+or
+or
+and
+and
+solution 575:
+and
+and
+or
+or
+xor
+or
+or
+and
+or
+solution 576:
+and
+and
+or
+or
+xor
+or
+or
+and
+xor
+solution 577:
+and
+and
+or
+or
+xor
+or
+or
+or
+and
+solution 578:
+and
+and
+or
+or
+xor
+or
+or
+or
+xor
+solution 579:
+and
+and
+or
+or
+xor
+or
+or
+xor
+and
+solution 580:
+and
+and
+or
+or
+xor
+or
+or
+xor
+or
+solution 581:
+and
+and
+or
+or
+xor
+or
+xor
+and
+and
+solution 582:
+and
+and
+or
+or
+xor
+or
+xor
+and
+or
+solution 587:
+and
+and
+or
+or
+xor
+xor
+and
+or
+and
+solution 588:
+and
+and
+or
+or
+xor
+xor
+and
+or
+or
+solution 589:
+and
+and
+or
+or
+xor
+xor
+or
+and
+and
+solution 590:
+and
+and
+or
+or
+xor
+xor
+or
+and
+or
+solution 591:
+and
+and
+or
+or
+xor
+xor
+or
+or
+and
+solution 592:
+and
+and
+or
+or
+xor
+xor
+or
+or
+or
+solution 662:
+and
+and
+or
+xor
+or
+or
+or
+or
+and
+solution 663:
+and
+and
+or
+xor
+or
+or
+or
+or
+xor
+solution 664:
+and
+and
+or
+xor
+or
+or
+or
+xor
+and
+solution 665:
+and
+and
+or
+xor
+or
+or
+or
+xor
+or
+solution 668:
+and
+and
+or
+xor
+or
+or
+xor
+or
+and
+solution 669:
+and
+and
+or
+xor
+or
+or
+xor
+or
+or
+solution 676:
+and
+and
+or
+xor
+or
+xor
+or
+or
+and
+solution 677:
+and
+and
+or
+xor
+or
+xor
+or
+or
+or
+solution 691:
+and
+and
+or
+xor
+xor
+or
+or
+or
+and
+solution 692:
+and
+and
+or
+xor
+xor
+or
+or
+or
+or
+solution 693:
+and
+and
+xor
+and
+and
+and
+or
+or
+or
+solution 694:
+and
+and
+xor
+and
+and
+and
+or
+or
+xor
+solution 695:
+and
+and
+xor
+and
+and
+and
+or
+xor
+or
+solution 696:
+and
+and
+xor
+and
+and
+and
+xor
+or
+or
+solution 702:
+and
+and
+xor
+and
+and
+or
+or
+or
+and
+solution 703:
+and
+and
+xor
+and
+and
+or
+or
+or
+or
+solution 704:
+and
+and
+xor
+and
+and
+or
+or
+or
+xor
+solution 705:
+and
+and
+xor
+and
+and
+or
+or
+xor
+and
+solution 706:
+and
+and
+xor
+and
+and
+or
+or
+xor
+or
+solution 708:
+and
+and
+xor
+and
+and
+or
+xor
+or
+and
+solution 709:
+and
+and
+xor
+and
+and
+or
+xor
+or
+or
+solution 712:
+and
+and
+xor
+and
+and
+xor
+or
+or
+and
+solution 713:
+and
+and
+xor
+and
+and
+xor
+or
+or
+or
+solution 737:
+and
+and
+xor
+and
+or
+or
+or
+or
+and
+solution 738:
+and
+and
+xor
+and
+or
+or
+or
+or
+or
+solution 739:
+and
+and
+xor
+and
+or
+or
+or
+or
+xor
+solution 740:
+and
+and
+xor
+and
+or
+or
+or
+xor
+and
+solution 741:
+and
+and
+xor
+and
+or
+or
+or
+xor
+or
+solution 744:
+and
+and
+xor
+and
+or
+or
+xor
+or
+and
+solution 745:
+and
+and
+xor
+and
+or
+or
+xor
+or
+or
+solution 751:
+and
+and
+xor
+and
+or
+xor
+or
+or
+and
+solution 752:
+and
+and
+xor
+and
+or
+xor
+or
+or
+or
+solution 758:
+and
+and
+xor
+and
+xor
+or
+and
+or
+and
+solution 759:
+and
+and
+xor
+and
+xor
+or
+and
+or
+or
+solution 760:
+and
+and
+xor
+and
+xor
+or
+or
+and
+and
+solution 761:
+and
+and
+xor
+and
+xor
+or
+or
+and
+or
+solution 762:
+and
+and
+xor
+and
+xor
+or
+or
+or
+and
+solution 763:
+and
+and
+xor
+and
+xor
+or
+or
+or
+or
+solution 767:
+and
+and
+xor
+or
+and
+and
+or
+and
+or
+solution 768:
+and
+and
+xor
+or
+and
+and
+or
+and
+xor
+solution 769:
+and
+and
+xor
+or
+and
+and
+or
+or
+and
+solution 770:
+and
+and
+xor
+or
+and
+and
+or
+or
+or
+solution 771:
+and
+and
+xor
+or
+and
+and
+or
+or
+xor
+solution 772:
+and
+and
+xor
+or
+and
+and
+or
+xor
+and
+solution 773:
+and
+and
+xor
+or
+and
+and
+or
+xor
+or
+solution 774:
+and
+and
+xor
+or
+and
+and
+xor
+and
+or
+solution 775:
+and
+and
+xor
+or
+and
+and
+xor
+or
+and
+solution 776:
+and
+and
+xor
+or
+and
+and
+xor
+or
+or
+solution 787:
+and
+and
+xor
+or
+and
+or
+or
+or
+and
+solution 788:
+and
+and
+xor
+or
+and
+or
+or
+or
+or
+solution 789:
+and
+and
+xor
+or
+and
+or
+or
+or
+xor
+solution 790:
+and
+and
+xor
+or
+and
+or
+or
+xor
+and
+solution 791:
+and
+and
+xor
+or
+and
+or
+or
+xor
+or
+solution 794:
+and
+and
+xor
+or
+and
+or
+xor
+or
+and
+solution 795:
+and
+and
+xor
+or
+and
+or
+xor
+or
+or
+solution 801:
+and
+and
+xor
+or
+and
+xor
+or
+or
+and
+solution 802:
+and
+and
+xor
+or
+and
+xor
+or
+or
+or
+solution 833:
+and
+and
+xor
+or
+or
+or
+or
+or
+and
+solution 834:
+and
+and
+xor
+or
+or
+or
+or
+or
+xor
+solution 835:
+and
+and
+xor
+or
+or
+or
+or
+xor
+and
+solution 836:
+and
+and
+xor
+or
+or
+or
+or
+xor
+or
+solution 839:
+and
+and
+xor
+or
+or
+or
+xor
+or
+and
+solution 840:
+and
+and
+xor
+or
+or
+or
+xor
+or
+or
+solution 847:
+and
+and
+xor
+or
+or
+xor
+or
+or
+and
+solution 848:
+and
+and
+xor
+or
+or
+xor
+or
+or
+or
+solution 858:
+and
+and
+xor
+or
+xor
+or
+and
+or
+and
+solution 859:
+and
+and
+xor
+or
+xor
+or
+and
+or
+or
+solution 860:
+and
+and
+xor
+or
+xor
+or
+or
+and
+and
+solution 861:
+and
+and
+xor
+or
+xor
+or
+or
+and
+or
+solution 862:
+and
+and
+xor
+or
+xor
+or
+or
+or
+and
+solution 863:
+and
+and
+xor
+or
+xor
+or
+or
+or
+or
+solution 888:
+and
+and
+xor
+xor
+or
+or
+or
+or
+and
+solution 889:
+and
+and
+xor
+xor
+or
+or
+or
+or
+or
+solution 890:
+and
+or
+and
+and
+and
+and
+or
+or
+or
+solution 891:
+and
+or
+and
+and
+and
+and
+or
+or
+xor
+solution 892:
+and
+or
+and
+and
+and
+and
+or
+xor
+or
+solution 893:
+and
+or
+and
+and
+and
+and
+or
+xor
+xor
+solution 894:
+and
+or
+and
+and
+and
+and
+xor
+or
+or
+solution 895:
+and
+or
+and
+and
+and
+and
+xor
+or
+xor
+solution 896:
+and
+or
+and
+and
+and
+and
+xor
+xor
+or
+solution 903:
+and
+or
+and
+and
+and
+or
+or
+or
+and
+solution 904:
+and
+or
+and
+and
+and
+or
+or
+or
+or
+solution 905:
+and
+or
+and
+and
+and
+or
+or
+or
+xor
+solution 906:
+and
+or
+and
+and
+and
+or
+or
+xor
+and
+solution 907:
+and
+or
+and
+and
+and
+or
+or
+xor
+or
+solution 908:
+and
+or
+and
+and
+and
+or
+or
+xor
+xor
+solution 911:
+and
+or
+and
+and
+and
+or
+xor
+or
+and
+solution 912:
+and
+or
+and
+and
+and
+or
+xor
+or
+or
+solution 913:
+and
+or
+and
+and
+and
+or
+xor
+or
+xor
+solution 914:
+and
+or
+and
+and
+and
+or
+xor
+xor
+and
+solution 915:
+and
+or
+and
+and
+and
+or
+xor
+xor
+or
+solution 921:
+and
+or
+and
+and
+and
+xor
+or
+or
+and
+solution 922:
+and
+or
+and
+and
+and
+xor
+or
+or
+or
+solution 923:
+and
+or
+and
+and
+and
+xor
+or
+or
+xor
+solution 924:
+and
+or
+and
+and
+and
+xor
+or
+xor
+and
+solution 925:
+and
+or
+and
+and
+and
+xor
+or
+xor
+or
+solution 927:
+and
+or
+and
+and
+and
+xor
+xor
+or
+and
+solution 928:
+and
+or
+and
+and
+and
+xor
+xor
+or
+or
+solution 959:
+and
+or
+and
+and
+or
+or
+or
+or
+and
+solution 960:
+and
+or
+and
+and
+or
+or
+or
+or
+xor
+solution 961:
+and
+or
+and
+and
+or
+or
+or
+xor
+and
+solution 962:
+and
+or
+and
+and
+or
+or
+or
+xor
+or
+solution 963:
+and
+or
+and
+and
+or
+or
+or
+xor
+xor
+solution 967:
+and
+or
+and
+and
+or
+or
+xor
+or
+and
+solution 968:
+and
+or
+and
+and
+or
+or
+xor
+or
+or
+solution 969:
+and
+or
+and
+and
+or
+or
+xor
+or
+xor
+solution 970:
+and
+or
+and
+and
+or
+or
+xor
+xor
+and
+solution 971:
+and
+or
+and
+and
+or
+or
+xor
+xor
+or
+solution 982:
+and
+or
+and
+and
+or
+xor
+or
+or
+and
+solution 983:
+and
+or
+and
+and
+or
+xor
+or
+or
+or
+solution 984:
+and
+or
+and
+and
+or
+xor
+or
+or
+xor
+solution 985:
+and
+or
+and
+and
+or
+xor
+or
+xor
+and
+solution 986:
+and
+or
+and
+and
+or
+xor
+or
+xor
+or
+solution 989:
+and
+or
+and
+and
+or
+xor
+xor
+or
+and
+solution 990:
+and
+or
+and
+and
+or
+xor
+xor
+or
+or
+solution 1006:
+and
+or
+and
+and
+xor
+or
+and
+or
+and
+solution 1007:
+and
+or
+and
+and
+xor
+or
+and
+or
+or
+solution 1008:
+and
+or
+and
+and
+xor
+or
+and
+or
+xor
+solution 1009:
+and
+or
+and
+and
+xor
+or
+and
+xor
+and
+solution 1010:
+and
+or
+and
+and
+xor
+or
+and
+xor
+or
+solution 1011:
+and
+or
+and
+and
+xor
+or
+or
+and
+and
+solution 1012:
+and
+or
+and
+and
+xor
+or
+or
+and
+or
+solution 1013:
+and
+or
+and
+and
+xor
+or
+or
+and
+xor
+solution 1014:
+and
+or
+and
+and
+xor
+or
+or
+or
+and
+solution 1015:
+and
+or
+and
+and
+xor
+or
+or
+or
+or
+solution 1016:
+and
+or
+and
+and
+xor
+or
+or
+or
+xor
+solution 1017:
+and
+or
+and
+and
+xor
+or
+or
+xor
+and
+solution 1018:
+and
+or
+and
+and
+xor
+or
+or
+xor
+or
+solution 1019:
+and
+or
+and
+and
+xor
+or
+xor
+and
+and
+solution 1020:
+and
+or
+and
+and
+xor
+or
+xor
+and
+or
+solution 1024:
+and
+or
+and
+and
+xor
+xor
+and
+or
+and
+solution 1025:
+and
+or
+and
+and
+xor
+xor
+and
+or
+or
+solution 1026:
+and
+or
+and
+and
+xor
+xor
+or
+and
+and
+solution 1027:
+and
+or
+and
+and
+xor
+xor
+or
+and
+or
+solution 1028:
+and
+or
+and
+and
+xor
+xor
+or
+or
+and
+solution 1029:
+and
+or
+and
+and
+xor
+xor
+or
+or
+or
+solution 1034:
+and
+or
+and
+or
+and
+and
+or
+and
+or
+solution 1035:
+and
+or
+and
+or
+and
+and
+or
+and
+xor
+solution 1036:
+and
+or
+and
+or
+and
+and
+or
+or
+and
+solution 1037:
+and
+or
+and
+or
+and
+and
+or
+or
+or
+solution 1038:
+and
+or
+and
+or
+and
+and
+or
+or
+xor
+solution 1039:
+and
+or
+and
+or
+and
+and
+or
+xor
+and
+solution 1040:
+and
+or
+and
+or
+and
+and
+or
+xor
+or
+solution 1041:
+and
+or
+and
+or
+and
+and
+or
+xor
+xor
+solution 1042:
+and
+or
+and
+or
+and
+and
+xor
+and
+or
+solution 1043:
+and
+or
+and
+or
+and
+and
+xor
+and
+xor
+solution 1044:
+and
+or
+and
+or
+and
+and
+xor
+or
+and
+solution 1045:
+and
+or
+and
+or
+and
+and
+xor
+or
+or
+solution 1046:
+and
+or
+and
+or
+and
+and
+xor
+or
+xor
+solution 1047:
+and
+or
+and
+or
+and
+and
+xor
+xor
+and
+solution 1048:
+and
+or
+and
+or
+and
+and
+xor
+xor
+or
+solution 1060:
+and
+or
+and
+or
+and
+or
+or
+or
+and
+solution 1061:
+and
+or
+and
+or
+and
+or
+or
+or
+xor
+solution 1062:
+and
+or
+and
+or
+and
+or
+or
+xor
+and
+solution 1063:
+and
+or
+and
+or
+and
+or
+or
+xor
+or
+solution 1064:
+and
+or
+and
+or
+and
+or
+or
+xor
+xor
+solution 1068:
+and
+or
+and
+or
+and
+or
+xor
+or
+and
+solution 1069:
+and
+or
+and
+or
+and
+or
+xor
+or
+or
+solution 1070:
+and
+or
+and
+or
+and
+or
+xor
+or
+xor
+solution 1071:
+and
+or
+and
+or
+and
+or
+xor
+xor
+and
+solution 1072:
+and
+or
+and
+or
+and
+or
+xor
+xor
+or
+solution 1083:
+and
+or
+and
+or
+and
+xor
+or
+or
+and
+solution 1084:
+and
+or
+and
+or
+and
+xor
+or
+or
+or
+solution 1085:
+and
+or
+and
+or
+and
+xor
+or
+or
+xor
+solution 1086:
+and
+or
+and
+or
+and
+xor
+or
+xor
+and
+solution 1087:
+and
+or
+and
+or
+and
+xor
+or
+xor
+or
+solution 1090:
+and
+or
+and
+or
+and
+xor
+xor
+or
+and
+solution 1091:
+and
+or
+and
+or
+and
+xor
+xor
+or
+or
+solution 1126:
+and
+or
+and
+or
+or
+or
+or
+xor
+and
+solution 1127:
+and
+or
+and
+or
+or
+or
+or
+xor
+xor
+solution 1131:
+and
+or
+and
+or
+or
+or
+xor
+or
+and
+solution 1132:
+and
+or
+and
+or
+or
+or
+xor
+or
+xor
+solution 1133:
+and
+or
+and
+or
+or
+or
+xor
+xor
+and
+solution 1134:
+and
+or
+and
+or
+or
+or
+xor
+xor
+or
+solution 1146:
+and
+or
+and
+or
+or
+xor
+or
+or
+and
+solution 1147:
+and
+or
+and
+or
+or
+xor
+or
+or
+xor
+solution 1148:
+and
+or
+and
+or
+or
+xor
+or
+xor
+and
+solution 1149:
+and
+or
+and
+or
+or
+xor
+or
+xor
+or
+solution 1152:
+and
+or
+and
+or
+or
+xor
+xor
+or
+and
+solution 1153:
+and
+or
+and
+or
+or
+xor
+xor
+or
+or
+solution 1176:
+and
+or
+and
+or
+xor
+or
+and
+or
+and
+solution 1177:
+and
+or
+and
+or
+xor
+or
+and
+or
+or
+solution 1178:
+and
+or
+and
+or
+xor
+or
+and
+or
+xor
+solution 1179:
+and
+or
+and
+or
+xor
+or
+and
+xor
+and
+solution 1180:
+and
+or
+and
+or
+xor
+or
+and
+xor
+or
+solution 1181:
+and
+or
+and
+or
+xor
+or
+or
+and
+and
+solution 1182:
+and
+or
+and
+or
+xor
+or
+or
+and
+or
+solution 1183:
+and
+or
+and
+or
+xor
+or
+or
+and
+xor
+solution 1184:
+and
+or
+and
+or
+xor
+or
+or
+or
+and
+solution 1185:
+and
+or
+and
+or
+xor
+or
+or
+or
+xor
+solution 1186:
+and
+or
+and
+or
+xor
+or
+or
+xor
+and
+solution 1187:
+and
+or
+and
+or
+xor
+or
+or
+xor
+or
+solution 1188:
+and
+or
+and
+or
+xor
+or
+xor
+and
+and
+solution 1189:
+and
+or
+and
+or
+xor
+or
+xor
+and
+or
+solution 1194:
+and
+or
+and
+or
+xor
+xor
+and
+or
+and
+solution 1195:
+and
+or
+and
+or
+xor
+xor
+and
+or
+or
+solution 1196:
+and
+or
+and
+or
+xor
+xor
+or
+and
+and
+solution 1197:
+and
+or
+and
+or
+xor
+xor
+or
+and
+or
+solution 1198:
+and
+or
+and
+or
+xor
+xor
+or
+or
+and
+solution 1199:
+and
+or
+and
+or
+xor
+xor
+or
+or
+or
+solution 1269:
+and
+or
+and
+xor
+or
+or
+or
+or
+and
+solution 1270:
+and
+or
+and
+xor
+or
+or
+or
+or
+xor
+solution 1271:
+and
+or
+and
+xor
+or
+or
+or
+xor
+and
+solution 1272:
+and
+or
+and
+xor
+or
+or
+or
+xor
+or
+solution 1275:
+and
+or
+and
+xor
+or
+or
+xor
+or
+and
+solution 1276:
+and
+or
+and
+xor
+or
+or
+xor
+or
+or
+solution 1283:
+and
+or
+and
+xor
+or
+xor
+or
+or
+and
+solution 1284:
+and
+or
+and
+xor
+or
+xor
+or
+or
+or
+solution 1298:
+and
+or
+and
+xor
+xor
+or
+or
+or
+and
+solution 1299:
+and
+or
+and
+xor
+xor
+or
+or
+or
+or
+solution 1330:
+and
+or
+or
+and
+and
+or
+or
+or
+and
+solution 1331:
+and
+or
+or
+and
+and
+or
+or
+or
+xor
+solution 1332:
+and
+or
+or
+and
+and
+or
+or
+xor
+and
+solution 1333:
+and
+or
+or
+and
+and
+or
+or
+xor
+or
+solution 1334:
+and
+or
+or
+and
+and
+or
+or
+xor
+xor
+solution 1338:
+and
+or
+or
+and
+and
+or
+xor
+or
+and
+solution 1339:
+and
+or
+or
+and
+and
+or
+xor
+or
+or
+solution 1340:
+and
+or
+or
+and
+and
+or
+xor
+or
+xor
+solution 1341:
+and
+or
+or
+and
+and
+or
+xor
+xor
+and
+solution 1342:
+and
+or
+or
+and
+and
+or
+xor
+xor
+or
+solution 1353:
+and
+or
+or
+and
+and
+xor
+or
+or
+and
+solution 1354:
+and
+or
+or
+and
+and
+xor
+or
+or
+or
+solution 1355:
+and
+or
+or
+and
+and
+xor
+or
+or
+xor
+solution 1356:
+and
+or
+or
+and
+and
+xor
+or
+xor
+and
+solution 1357:
+and
+or
+or
+and
+and
+xor
+or
+xor
+or
+solution 1360:
+and
+or
+or
+and
+and
+xor
+xor
+or
+and
+solution 1361:
+and
+or
+or
+and
+and
+xor
+xor
+or
+or
+solution 1396:
+and
+or
+or
+and
+or
+or
+or
+xor
+and
+solution 1397:
+and
+or
+or
+and
+or
+or
+or
+xor
+xor
+solution 1401:
+and
+or
+or
+and
+or
+or
+xor
+or
+and
+solution 1402:
+and
+or
+or
+and
+or
+or
+xor
+or
+xor
+solution 1403:
+and
+or
+or
+and
+or
+or
+xor
+xor
+and
+solution 1404:
+and
+or
+or
+and
+or
+or
+xor
+xor
+or
+solution 1416:
+and
+or
+or
+and
+or
+xor
+or
+or
+and
+solution 1417:
+and
+or
+or
+and
+or
+xor
+or
+or
+xor
+solution 1418:
+and
+or
+or
+and
+or
+xor
+or
+xor
+and
+solution 1419:
+and
+or
+or
+and
+or
+xor
+or
+xor
+or
+solution 1422:
+and
+or
+or
+and
+or
+xor
+xor
+or
+and
+solution 1423:
+and
+or
+or
+and
+or
+xor
+xor
+or
+or
+solution 1504:
+and
+or
+or
+or
+and
+or
+or
+xor
+and
+solution 1505:
+and
+or
+or
+or
+and
+or
+or
+xor
+xor
+solution 1509:
+and
+or
+or
+or
+and
+or
+xor
+or
+and
+solution 1510:
+and
+or
+or
+or
+and
+or
+xor
+or
+xor
+solution 1511:
+and
+or
+or
+or
+and
+or
+xor
+xor
+and
+solution 1512:
+and
+or
+or
+or
+and
+or
+xor
+xor
+or
+solution 1524:
+and
+or
+or
+or
+and
+xor
+or
+or
+and
+solution 1525:
+and
+or
+or
+or
+and
+xor
+or
+or
+xor
+solution 1526:
+and
+or
+or
+or
+and
+xor
+or
+xor
+and
+solution 1527:
+and
+or
+or
+or
+and
+xor
+or
+xor
+or
+solution 1530:
+and
+or
+or
+or
+and
+xor
+xor
+or
+and
+solution 1531:
+and
+or
+or
+or
+and
+xor
+xor
+or
+or
+solution 1557:
+and
+or
+or
+or
+or
+or
+xor
+xor
+and
+solution 1567:
+and
+or
+or
+or
+or
+xor
+or
+xor
+and
+solution 1570:
+and
+or
+or
+or
+or
+xor
+xor
+or
+and
+solution 1684:
+and
+or
+or
+xor
+or
+or
+or
+xor
+and
+solution 1687:
+and
+or
+or
+xor
+or
+or
+xor
+or
+and
+solution 1694:
+and
+or
+or
+xor
+or
+xor
+or
+or
+and
+solution 1709:
+and
+or
+or
+xor
+xor
+or
+or
+or
+and
+solution 1733:
+and
+or
+xor
+and
+and
+or
+or
+or
+and
+solution 1734:
+and
+or
+xor
+and
+and
+or
+or
+or
+or
+solution 1735:
+and
+or
+xor
+and
+and
+or
+or
+or
+xor
+solution 1736:
+and
+or
+xor
+and
+and
+or
+or
+xor
+and
+solution 1737:
+and
+or
+xor
+and
+and
+or
+or
+xor
+or
+solution 1740:
+and
+or
+xor
+and
+and
+or
+xor
+or
+and
+solution 1741:
+and
+or
+xor
+and
+and
+or
+xor
+or
+or
+solution 1747:
+and
+or
+xor
+and
+and
+xor
+or
+or
+and
+solution 1748:
+and
+or
+xor
+and
+and
+xor
+or
+or
+or
+solution 1779:
+and
+or
+xor
+and
+or
+or
+or
+or
+and
+solution 1780:
+and
+or
+xor
+and
+or
+or
+or
+or
+xor
+solution 1781:
+and
+or
+xor
+and
+or
+or
+or
+xor
+and
+solution 1782:
+and
+or
+xor
+and
+or
+or
+or
+xor
+or
+solution 1785:
+and
+or
+xor
+and
+or
+or
+xor
+or
+and
+solution 1786:
+and
+or
+xor
+and
+or
+or
+xor
+or
+or
+solution 1793:
+and
+or
+xor
+and
+or
+xor
+or
+or
+and
+solution 1794:
+and
+or
+xor
+and
+or
+xor
+or
+or
+or
+solution 1840:
+and
+or
+xor
+or
+and
+or
+or
+or
+and
+solution 1841:
+and
+or
+xor
+or
+and
+or
+or
+or
+xor
+solution 1842:
+and
+or
+xor
+or
+and
+or
+or
+xor
+and
+solution 1843:
+and
+or
+xor
+or
+and
+or
+or
+xor
+or
+solution 1846:
+and
+or
+xor
+or
+and
+or
+xor
+or
+and
+solution 1847:
+and
+or
+xor
+or
+and
+or
+xor
+or
+or
+solution 1854:
+and
+or
+xor
+or
+and
+xor
+or
+or
+and
+solution 1855:
+and
+or
+xor
+or
+and
+xor
+or
+or
+or
+solution 1884:
+and
+or
+xor
+or
+or
+or
+or
+xor
+and
+solution 1887:
+and
+or
+xor
+or
+or
+or
+xor
+or
+and
+solution 1894:
+and
+or
+xor
+or
+or
+xor
+or
+or
+and
+solution 1939:
+and
+or
+xor
+xor
+or
+or
+or
+or
+and
+solution 1940:
+and
+xor
+and
+and
+and
+and
+or
+or
+or
+solution 1941:
+and
+xor
+and
+and
+and
+and
+or
+or
+xor
+solution 1942:
+and
+xor
+and
+and
+and
+and
+or
+xor
+or
+solution 1943:
+and
+xor
+and
+and
+and
+and
+xor
+or
+or
+solution 1949:
+and
+xor
+and
+and
+and
+or
+or
+or
+and
+solution 1950:
+and
+xor
+and
+and
+and
+or
+or
+or
+or
+solution 1951:
+and
+xor
+and
+and
+and
+or
+or
+or
+xor
+solution 1952:
+and
+xor
+and
+and
+and
+or
+or
+xor
+and
+solution 1953:
+and
+xor
+and
+and
+and
+or
+or
+xor
+or
+solution 1955:
+and
+xor
+and
+and
+and
+or
+xor
+or
+and
+solution 1956:
+and
+xor
+and
+and
+and
+or
+xor
+or
+or
+solution 1959:
+and
+xor
+and
+and
+and
+xor
+or
+or
+and
+solution 1960:
+and
+xor
+and
+and
+and
+xor
+or
+or
+or
+solution 1984:
+and
+xor
+and
+and
+or
+or
+or
+or
+and
+solution 1985:
+and
+xor
+and
+and
+or
+or
+or
+or
+or
+solution 1986:
+and
+xor
+and
+and
+or
+or
+or
+or
+xor
+solution 1987:
+and
+xor
+and
+and
+or
+or
+or
+xor
+and
+solution 1988:
+and
+xor
+and
+and
+or
+or
+or
+xor
+or
+solution 1991:
+and
+xor
+and
+and
+or
+or
+xor
+or
+and
+solution 1992:
+and
+xor
+and
+and
+or
+or
+xor
+or
+or
+solution 1998:
+and
+xor
+and
+and
+or
+xor
+or
+or
+and
+solution 1999:
+and
+xor
+and
+and
+or
+xor
+or
+or
+or
+solution 2005:
+and
+xor
+and
+and
+xor
+or
+and
+or
+and
+solution 2006:
+and
+xor
+and
+and
+xor
+or
+and
+or
+or
+solution 2007:
+and
+xor
+and
+and
+xor
+or
+or
+and
+and
+solution 2008:
+and
+xor
+and
+and
+xor
+or
+or
+and
+or
+solution 2009:
+and
+xor
+and
+and
+xor
+or
+or
+or
+and
+solution 2010:
+and
+xor
+and
+and
+xor
+or
+or
+or
+or
+solution 2014:
+and
+xor
+and
+or
+and
+and
+or
+and
+or
+solution 2015:
+and
+xor
+and
+or
+and
+and
+or
+and
+xor
+solution 2016:
+and
+xor
+and
+or
+and
+and
+or
+or
+and
+solution 2017:
+and
+xor
+and
+or
+and
+and
+or
+or
+or
+solution 2018:
+and
+xor
+and
+or
+and
+and
+or
+or
+xor
+solution 2019:
+and
+xor
+and
+or
+and
+and
+or
+xor
+and
+solution 2020:
+and
+xor
+and
+or
+and
+and
+or
+xor
+or
+solution 2021:
+and
+xor
+and
+or
+and
+and
+xor
+and
+or
+solution 2022:
+and
+xor
+and
+or
+and
+and
+xor
+or
+and
+solution 2023:
+and
+xor
+and
+or
+and
+and
+xor
+or
+or
+solution 2034:
+and
+xor
+and
+or
+and
+or
+or
+or
+and
+solution 2035:
+and
+xor
+and
+or
+and
+or
+or
+or
+or
+solution 2036:
+and
+xor
+and
+or
+and
+or
+or
+or
+xor
+solution 2037:
+and
+xor
+and
+or
+and
+or
+or
+xor
+and
+solution 2038:
+and
+xor
+and
+or
+and
+or
+or
+xor
+or
+solution 2041:
+and
+xor
+and
+or
+and
+or
+xor
+or
+and
+solution 2042:
+and
+xor
+and
+or
+and
+or
+xor
+or
+or
+solution 2048:
+and
+xor
+and
+or
+and
+xor
+or
+or
+and
+solution 2049:
+and
+xor
+and
+or
+and
+xor
+or
+or
+or
+solution 2080:
+and
+xor
+and
+or
+or
+or
+or
+or
+and
+solution 2081:
+and
+xor
+and
+or
+or
+or
+or
+or
+xor
+solution 2082:
+and
+xor
+and
+or
+or
+or
+or
+xor
+and
+solution 2083:
+and
+xor
+and
+or
+or
+or
+or
+xor
+or
+solution 2086:
+and
+xor
+and
+or
+or
+or
+xor
+or
+and
+solution 2087:
+and
+xor
+and
+or
+or
+or
+xor
+or
+or
+solution 2094:
+and
+xor
+and
+or
+or
+xor
+or
+or
+and
+solution 2095:
+and
+xor
+and
+or
+or
+xor
+or
+or
+or
+solution 2105:
+and
+xor
+and
+or
+xor
+or
+and
+or
+and
+solution 2106:
+and
+xor
+and
+or
+xor
+or
+and
+or
+or
+solution 2107:
+and
+xor
+and
+or
+xor
+or
+or
+and
+and
+solution 2108:
+and
+xor
+and
+or
+xor
+or
+or
+and
+or
+solution 2109:
+and
+xor
+and
+or
+xor
+or
+or
+or
+and
+solution 2110:
+and
+xor
+and
+or
+xor
+or
+or
+or
+or
+solution 2135:
+and
+xor
+and
+xor
+or
+or
+or
+or
+and
+solution 2136:
+and
+xor
+and
+xor
+or
+or
+or
+or
+or
+solution 2160:
+and
+xor
+or
+and
+and
+or
+or
+or
+and
+solution 2161:
+and
+xor
+or
+and
+and
+or
+or
+or
+or
+solution 2162:
+and
+xor
+or
+and
+and
+or
+or
+or
+xor
+solution 2163:
+and
+xor
+or
+and
+and
+or
+or
+xor
+and
+solution 2164:
+and
+xor
+or
+and
+and
+or
+or
+xor
+or
+solution 2167:
+and
+xor
+or
+and
+and
+or
+xor
+or
+and
+solution 2168:
+and
+xor
+or
+and
+and
+or
+xor
+or
+or
+solution 2174:
+and
+xor
+or
+and
+and
+xor
+or
+or
+and
+solution 2175:
+and
+xor
+or
+and
+and
+xor
+or
+or
+or
+solution 2206:
+and
+xor
+or
+and
+or
+or
+or
+or
+and
+solution 2207:
+and
+xor
+or
+and
+or
+or
+or
+or
+xor
+solution 2208:
+and
+xor
+or
+and
+or
+or
+or
+xor
+and
+solution 2209:
+and
+xor
+or
+and
+or
+or
+or
+xor
+or
+solution 2212:
+and
+xor
+or
+and
+or
+or
+xor
+or
+and
+solution 2213:
+and
+xor
+or
+and
+or
+or
+xor
+or
+or
+solution 2220:
+and
+xor
+or
+and
+or
+xor
+or
+or
+and
+solution 2221:
+and
+xor
+or
+and
+or
+xor
+or
+or
+or
+solution 2267:
+and
+xor
+or
+or
+and
+or
+or
+or
+and
+solution 2268:
+and
+xor
+or
+or
+and
+or
+or
+or
+xor
+solution 2269:
+and
+xor
+or
+or
+and
+or
+or
+xor
+and
+solution 2270:
+and
+xor
+or
+or
+and
+or
+or
+xor
+or
+solution 2273:
+and
+xor
+or
+or
+and
+or
+xor
+or
+and
+solution 2274:
+and
+xor
+or
+or
+and
+or
+xor
+or
+or
+solution 2281:
+and
+xor
+or
+or
+and
+xor
+or
+or
+and
+solution 2282:
+and
+xor
+or
+or
+and
+xor
+or
+or
+or
+solution 2311:
+and
+xor
+or
+or
+or
+or
+or
+xor
+and
+solution 2314:
+and
+xor
+or
+or
+or
+or
+xor
+or
+and
+solution 2321:
+and
+xor
+or
+or
+or
+xor
+or
+or
+and
+solution 2340:
+and
+xor
+or
+xor
+and
+and
+or
+and
+and
+solution 2341:
+and
+xor
+or
+xor
+and
+and
+or
+and
+or
+solution 2342:
+and
+xor
+or
+xor
+and
+and
+or
+or
+and
+solution 2343:
+and
+xor
+or
+xor
+and
+and
+or
+or
+or
+solution 2346:
+and
+xor
+or
+xor
+and
+or
+and
+or
+and
+solution 2347:
+and
+xor
+or
+xor
+and
+or
+and
+or
+or
+solution 2348:
+and
+xor
+or
+xor
+and
+or
+or
+and
+and
+solution 2349:
+and
+xor
+or
+xor
+and
+or
+or
+and
+or
+solution 2350:
+and
+xor
+or
+xor
+and
+or
+or
+or
+and
+solution 2351:
+and
+xor
+or
+xor
+and
+or
+or
+or
+or
+solution 2356:
+and
+xor
+or
+xor
+or
+and
+or
+and
+and
+solution 2357:
+and
+xor
+or
+xor
+or
+and
+or
+and
+or
+solution 2358:
+and
+xor
+or
+xor
+or
+and
+or
+or
+and
+solution 2359:
+and
+xor
+or
+xor
+or
+and
+or
+or
+or
+solution 2366:
+and
+xor
+or
+xor
+or
+or
+or
+or
+and
+solution 2376:
+and
+xor
+xor
+and
+and
+or
+or
+or
+and
+solution 2377:
+and
+xor
+xor
+and
+and
+or
+or
+or
+or
+solution 2391:
+and
+xor
+xor
+and
+or
+or
+or
+or
+and
+solution 2392:
+and
+xor
+xor
+and
+or
+or
+or
+or
+or
+solution 2406:
+and
+xor
+xor
+or
+and
+or
+or
+or
+and
+solution 2407:
+and
+xor
+xor
+or
+and
+or
+or
+or
+or
+solution 2422:
+and
+xor
+xor
+or
+or
+or
+or
+or
+and
+solution 2436:
+or
+and
+and
+and
+and
+or
+or
+or
+and
+solution 2437:
+or
+and
+and
+and
+and
+or
+or
+or
+or
+solution 2438:
+or
+and
+and
+and
+and
+or
+or
+or
+xor
+solution 2439:
+or
+and
+and
+and
+and
+or
+or
+xor
+and
+solution 2440:
+or
+and
+and
+and
+and
+or
+or
+xor
+or
+solution 2441:
+or
+and
+and
+and
+and
+or
+or
+xor
+xor
+solution 2444:
+or
+and
+and
+and
+and
+or
+xor
+or
+and
+solution 2445:
+or
+and
+and
+and
+and
+or
+xor
+or
+or
+solution 2446:
+or
+and
+and
+and
+and
+or
+xor
+or
+xor
+solution 2447:
+or
+and
+and
+and
+and
+or
+xor
+xor
+and
+solution 2448:
+or
+and
+and
+and
+and
+or
+xor
+xor
+or
+solution 2454:
+or
+and
+and
+and
+and
+xor
+or
+or
+and
+solution 2455:
+or
+and
+and
+and
+and
+xor
+or
+or
+or
+solution 2456:
+or
+and
+and
+and
+and
+xor
+or
+or
+xor
+solution 2457:
+or
+and
+and
+and
+and
+xor
+or
+xor
+and
+solution 2458:
+or
+and
+and
+and
+and
+xor
+or
+xor
+or
+solution 2460:
+or
+and
+and
+and
+and
+xor
+xor
+or
+and
+solution 2461:
+or
+and
+and
+and
+and
+xor
+xor
+or
+or
+solution 2492:
+or
+and
+and
+and
+or
+or
+or
+or
+and
+solution 2493:
+or
+and
+and
+and
+or
+or
+or
+or
+xor
+solution 2494:
+or
+and
+and
+and
+or
+or
+or
+xor
+and
+solution 2495:
+or
+and
+and
+and
+or
+or
+or
+xor
+or
+solution 2496:
+or
+and
+and
+and
+or
+or
+or
+xor
+xor
+solution 2500:
+or
+and
+and
+and
+or
+or
+xor
+or
+and
+solution 2501:
+or
+and
+and
+and
+or
+or
+xor
+or
+or
+solution 2502:
+or
+and
+and
+and
+or
+or
+xor
+or
+xor
+solution 2503:
+or
+and
+and
+and
+or
+or
+xor
+xor
+and
+solution 2504:
+or
+and
+and
+and
+or
+or
+xor
+xor
+or
+solution 2515:
+or
+and
+and
+and
+or
+xor
+or
+or
+and
+solution 2516:
+or
+and
+and
+and
+or
+xor
+or
+or
+or
+solution 2517:
+or
+and
+and
+and
+or
+xor
+or
+or
+xor
+solution 2518:
+or
+and
+and
+and
+or
+xor
+or
+xor
+and
+solution 2519:
+or
+and
+and
+and
+or
+xor
+or
+xor
+or
+solution 2522:
+or
+and
+and
+and
+or
+xor
+xor
+or
+and
+solution 2523:
+or
+and
+and
+and
+or
+xor
+xor
+or
+or
+solution 2593:
+or
+and
+and
+or
+and
+or
+or
+or
+and
+solution 2594:
+or
+and
+and
+or
+and
+or
+or
+or
+xor
+solution 2595:
+or
+and
+and
+or
+and
+or
+or
+xor
+and
+solution 2596:
+or
+and
+and
+or
+and
+or
+or
+xor
+or
+solution 2597:
+or
+and
+and
+or
+and
+or
+or
+xor
+xor
+solution 2601:
+or
+and
+and
+or
+and
+or
+xor
+or
+and
+solution 2602:
+or
+and
+and
+or
+and
+or
+xor
+or
+or
+solution 2603:
+or
+and
+and
+or
+and
+or
+xor
+or
+xor
+solution 2604:
+or
+and
+and
+or
+and
+or
+xor
+xor
+and
+solution 2605:
+or
+and
+and
+or
+and
+or
+xor
+xor
+or
+solution 2616:
+or
+and
+and
+or
+and
+xor
+or
+or
+and
+solution 2617:
+or
+and
+and
+or
+and
+xor
+or
+or
+or
+solution 2618:
+or
+and
+and
+or
+and
+xor
+or
+or
+xor
+solution 2619:
+or
+and
+and
+or
+and
+xor
+or
+xor
+and
+solution 2620:
+or
+and
+and
+or
+and
+xor
+or
+xor
+or
+solution 2623:
+or
+and
+and
+or
+and
+xor
+xor
+or
+and
+solution 2624:
+or
+and
+and
+or
+and
+xor
+xor
+or
+or
+solution 2659:
+or
+and
+and
+or
+or
+or
+or
+xor
+and
+solution 2660:
+or
+and
+and
+or
+or
+or
+or
+xor
+xor
+solution 2664:
+or
+and
+and
+or
+or
+or
+xor
+or
+and
+solution 2665:
+or
+and
+and
+or
+or
+or
+xor
+or
+xor
+solution 2666:
+or
+and
+and
+or
+or
+or
+xor
+xor
+and
+solution 2667:
+or
+and
+and
+or
+or
+or
+xor
+xor
+or
+solution 2679:
+or
+and
+and
+or
+or
+xor
+or
+or
+and
+solution 2680:
+or
+and
+and
+or
+or
+xor
+or
+or
+xor
+solution 2681:
+or
+and
+and
+or
+or
+xor
+or
+xor
+and
+solution 2682:
+or
+and
+and
+or
+or
+xor
+or
+xor
+or
+solution 2685:
+or
+and
+and
+or
+or
+xor
+xor
+or
+and
+solution 2686:
+or
+and
+and
+or
+or
+xor
+xor
+or
+or
+solution 2802:
+or
+and
+and
+xor
+or
+or
+or
+or
+and
+solution 2803:
+or
+and
+and
+xor
+or
+or
+or
+or
+xor
+solution 2804:
+or
+and
+and
+xor
+or
+or
+or
+xor
+and
+solution 2805:
+or
+and
+and
+xor
+or
+or
+or
+xor
+or
+solution 2808:
+or
+and
+and
+xor
+or
+or
+xor
+or
+and
+solution 2809:
+or
+and
+and
+xor
+or
+or
+xor
+or
+or
+solution 2816:
+or
+and
+and
+xor
+or
+xor
+or
+or
+and
+solution 2817:
+or
+and
+and
+xor
+or
+xor
+or
+or
+or
+solution 2831:
+or
+and
+and
+xor
+xor
+or
+or
+or
+and
+solution 2832:
+or
+and
+and
+xor
+xor
+or
+or
+or
+or
+solution 2863:
+or
+and
+or
+and
+and
+or
+or
+or
+and
+solution 2864:
+or
+and
+or
+and
+and
+or
+or
+or
+xor
+solution 2865:
+or
+and
+or
+and
+and
+or
+or
+xor
+and
+solution 2866:
+or
+and
+or
+and
+and
+or
+or
+xor
+or
+solution 2867:
+or
+and
+or
+and
+and
+or
+or
+xor
+xor
+solution 2871:
+or
+and
+or
+and
+and
+or
+xor
+or
+and
+solution 2872:
+or
+and
+or
+and
+and
+or
+xor
+or
+or
+solution 2873:
+or
+and
+or
+and
+and
+or
+xor
+or
+xor
+solution 2874:
+or
+and
+or
+and
+and
+or
+xor
+xor
+and
+solution 2875:
+or
+and
+or
+and
+and
+or
+xor
+xor
+or
+solution 2886:
+or
+and
+or
+and
+and
+xor
+or
+or
+and
+solution 2887:
+or
+and
+or
+and
+and
+xor
+or
+or
+or
+solution 2888:
+or
+and
+or
+and
+and
+xor
+or
+or
+xor
+solution 2889:
+or
+and
+or
+and
+and
+xor
+or
+xor
+and
+solution 2890:
+or
+and
+or
+and
+and
+xor
+or
+xor
+or
+solution 2893:
+or
+and
+or
+and
+and
+xor
+xor
+or
+and
+solution 2894:
+or
+and
+or
+and
+and
+xor
+xor
+or
+or
+solution 2929:
+or
+and
+or
+and
+or
+or
+or
+xor
+and
+solution 2930:
+or
+and
+or
+and
+or
+or
+or
+xor
+xor
+solution 2934:
+or
+and
+or
+and
+or
+or
+xor
+or
+and
+solution 2935:
+or
+and
+or
+and
+or
+or
+xor
+or
+xor
+solution 2936:
+or
+and
+or
+and
+or
+or
+xor
+xor
+and
+solution 2937:
+or
+and
+or
+and
+or
+or
+xor
+xor
+or
+solution 2949:
+or
+and
+or
+and
+or
+xor
+or
+or
+and
+solution 2950:
+or
+and
+or
+and
+or
+xor
+or
+or
+xor
+solution 2951:
+or
+and
+or
+and
+or
+xor
+or
+xor
+and
+solution 2952:
+or
+and
+or
+and
+or
+xor
+or
+xor
+or
+solution 2955:
+or
+and
+or
+and
+or
+xor
+xor
+or
+and
+solution 2956:
+or
+and
+or
+and
+or
+xor
+xor
+or
+or
+solution 3037:
+or
+and
+or
+or
+and
+or
+or
+xor
+and
+solution 3038:
+or
+and
+or
+or
+and
+or
+or
+xor
+xor
+solution 3042:
+or
+and
+or
+or
+and
+or
+xor
+or
+and
+solution 3043:
+or
+and
+or
+or
+and
+or
+xor
+or
+xor
+solution 3044:
+or
+and
+or
+or
+and
+or
+xor
+xor
+and
+solution 3045:
+or
+and
+or
+or
+and
+or
+xor
+xor
+or
+solution 3057:
+or
+and
+or
+or
+and
+xor
+or
+or
+and
+solution 3058:
+or
+and
+or
+or
+and
+xor
+or
+or
+xor
+solution 3059:
+or
+and
+or
+or
+and
+xor
+or
+xor
+and
+solution 3060:
+or
+and
+or
+or
+and
+xor
+or
+xor
+or
+solution 3063:
+or
+and
+or
+or
+and
+xor
+xor
+or
+and
+solution 3064:
+or
+and
+or
+or
+and
+xor
+xor
+or
+or
+solution 3090:
+or
+and
+or
+or
+or
+or
+xor
+xor
+and
+solution 3100:
+or
+and
+or
+or
+or
+xor
+or
+xor
+and
+solution 3103:
+or
+and
+or
+or
+or
+xor
+xor
+or
+and
+solution 3266:
+or
+and
+xor
+and
+and
+or
+or
+or
+and
+solution 3267:
+or
+and
+xor
+and
+and
+or
+or
+or
+or
+solution 3268:
+or
+and
+xor
+and
+and
+or
+or
+or
+xor
+solution 3269:
+or
+and
+xor
+and
+and
+or
+or
+xor
+and
+solution 3270:
+or
+and
+xor
+and
+and
+or
+or
+xor
+or
+solution 3273:
+or
+and
+xor
+and
+and
+or
+xor
+or
+and
+solution 3274:
+or
+and
+xor
+and
+and
+or
+xor
+or
+or
+solution 3280:
+or
+and
+xor
+and
+and
+xor
+or
+or
+and
+solution 3281:
+or
+and
+xor
+and
+and
+xor
+or
+or
+or
+solution 3312:
+or
+and
+xor
+and
+or
+or
+or
+or
+and
+solution 3313:
+or
+and
+xor
+and
+or
+or
+or
+or
+xor
+solution 3314:
+or
+and
+xor
+and
+or
+or
+or
+xor
+and
+solution 3315:
+or
+and
+xor
+and
+or
+or
+or
+xor
+or
+solution 3318:
+or
+and
+xor
+and
+or
+or
+xor
+or
+and
+solution 3319:
+or
+and
+xor
+and
+or
+or
+xor
+or
+or
+solution 3326:
+or
+and
+xor
+and
+or
+xor
+or
+or
+and
+solution 3327:
+or
+and
+xor
+and
+or
+xor
+or
+or
+or
+solution 3373:
+or
+and
+xor
+or
+and
+or
+or
+or
+and
+solution 3374:
+or
+and
+xor
+or
+and
+or
+or
+or
+xor
+solution 3375:
+or
+and
+xor
+or
+and
+or
+or
+xor
+and
+solution 3376:
+or
+and
+xor
+or
+and
+or
+or
+xor
+or
+solution 3379:
+or
+and
+xor
+or
+and
+or
+xor
+or
+and
+solution 3380:
+or
+and
+xor
+or
+and
+or
+xor
+or
+or
+solution 3387:
+or
+and
+xor
+or
+and
+xor
+or
+or
+and
+solution 3388:
+or
+and
+xor
+or
+and
+xor
+or
+or
+or
+solution 3417:
+or
+and
+xor
+or
+or
+or
+or
+xor
+and
+solution 3420:
+or
+and
+xor
+or
+or
+or
+xor
+or
+and
+solution 3427:
+or
+and
+xor
+or
+or
+xor
+or
+or
+and
+solution 3503:
+or
+or
+and
+and
+and
+or
+or
+or
+and
+solution 3504:
+or
+or
+and
+and
+and
+or
+or
+or
+xor
+solution 3505:
+or
+or
+and
+and
+and
+or
+or
+xor
+and
+solution 3506:
+or
+or
+and
+and
+and
+or
+or
+xor
+or
+solution 3507:
+or
+or
+and
+and
+and
+or
+or
+xor
+xor
+solution 3511:
+or
+or
+and
+and
+and
+or
+xor
+or
+and
+solution 3512:
+or
+or
+and
+and
+and
+or
+xor
+or
+or
+solution 3513:
+or
+or
+and
+and
+and
+or
+xor
+or
+xor
+solution 3514:
+or
+or
+and
+and
+and
+or
+xor
+xor
+and
+solution 3515:
+or
+or
+and
+and
+and
+or
+xor
+xor
+or
+solution 3526:
+or
+or
+and
+and
+and
+xor
+or
+or
+and
+solution 3527:
+or
+or
+and
+and
+and
+xor
+or
+or
+or
+solution 3528:
+or
+or
+and
+and
+and
+xor
+or
+or
+xor
+solution 3529:
+or
+or
+and
+and
+and
+xor
+or
+xor
+and
+solution 3530:
+or
+or
+and
+and
+and
+xor
+or
+xor
+or
+solution 3533:
+or
+or
+and
+and
+and
+xor
+xor
+or
+and
+solution 3534:
+or
+or
+and
+and
+and
+xor
+xor
+or
+or
+solution 3569:
+or
+or
+and
+and
+or
+or
+or
+xor
+and
+solution 3570:
+or
+or
+and
+and
+or
+or
+or
+xor
+xor
+solution 3574:
+or
+or
+and
+and
+or
+or
+xor
+or
+and
+solution 3575:
+or
+or
+and
+and
+or
+or
+xor
+or
+xor
+solution 3576:
+or
+or
+and
+and
+or
+or
+xor
+xor
+and
+solution 3577:
+or
+or
+and
+and
+or
+or
+xor
+xor
+or
+solution 3589:
+or
+or
+and
+and
+or
+xor
+or
+or
+and
+solution 3590:
+or
+or
+and
+and
+or
+xor
+or
+or
+xor
+solution 3591:
+or
+or
+and
+and
+or
+xor
+or
+xor
+and
+solution 3592:
+or
+or
+and
+and
+or
+xor
+or
+xor
+or
+solution 3595:
+or
+or
+and
+and
+or
+xor
+xor
+or
+and
+solution 3596:
+or
+or
+and
+and
+or
+xor
+xor
+or
+or
+solution 3677:
+or
+or
+and
+or
+and
+or
+or
+xor
+and
+solution 3678:
+or
+or
+and
+or
+and
+or
+or
+xor
+xor
+solution 3682:
+or
+or
+and
+or
+and
+or
+xor
+or
+and
+solution 3683:
+or
+or
+and
+or
+and
+or
+xor
+or
+xor
+solution 3684:
+or
+or
+and
+or
+and
+or
+xor
+xor
+and
+solution 3685:
+or
+or
+and
+or
+and
+or
+xor
+xor
+or
+solution 3697:
+or
+or
+and
+or
+and
+xor
+or
+or
+and
+solution 3698:
+or
+or
+and
+or
+and
+xor
+or
+or
+xor
+solution 3699:
+or
+or
+and
+or
+and
+xor
+or
+xor
+and
+solution 3700:
+or
+or
+and
+or
+and
+xor
+or
+xor
+or
+solution 3703:
+or
+or
+and
+or
+and
+xor
+xor
+or
+and
+solution 3704:
+or
+or
+and
+or
+and
+xor
+xor
+or
+or
+solution 3730:
+or
+or
+and
+or
+or
+or
+xor
+xor
+and
+solution 3740:
+or
+or
+and
+or
+or
+xor
+or
+xor
+and
+solution 3743:
+or
+or
+and
+or
+or
+xor
+xor
+or
+and
+solution 4385:
+or
+xor
+and
+and
+and
+or
+or
+or
+and
+solution 4386:
+or
+xor
+and
+and
+and
+or
+or
+or
+or
+solution 4387:
+or
+xor
+and
+and
+and
+or
+or
+or
+xor
+solution 4388:
+or
+xor
+and
+and
+and
+or
+or
+xor
+and
+solution 4389:
+or
+xor
+and
+and
+and
+or
+or
+xor
+or
+solution 4392:
+or
+xor
+and
+and
+and
+or
+xor
+or
+and
+solution 4393:
+or
+xor
+and
+and
+and
+or
+xor
+or
+or
+solution 4399:
+or
+xor
+and
+and
+and
+xor
+or
+or
+and
+solution 4400:
+or
+xor
+and
+and
+and
+xor
+or
+or
+or
+solution 4431:
+or
+xor
+and
+and
+or
+or
+or
+or
+and
+solution 4432:
+or
+xor
+and
+and
+or
+or
+or
+or
+xor
+solution 4433:
+or
+xor
+and
+and
+or
+or
+or
+xor
+and
+solution 4434:
+or
+xor
+and
+and
+or
+or
+or
+xor
+or
+solution 4437:
+or
+xor
+and
+and
+or
+or
+xor
+or
+and
+solution 4438:
+or
+xor
+and
+and
+or
+or
+xor
+or
+or
+solution 4445:
+or
+xor
+and
+and
+or
+xor
+or
+or
+and
+solution 4446:
+or
+xor
+and
+and
+or
+xor
+or
+or
+or
+solution 4492:
+or
+xor
+and
+or
+and
+or
+or
+or
+and
+solution 4493:
+or
+xor
+and
+or
+and
+or
+or
+or
+xor
+solution 4494:
+or
+xor
+and
+or
+and
+or
+or
+xor
+and
+solution 4495:
+or
+xor
+and
+or
+and
+or
+or
+xor
+or
+solution 4498:
+or
+xor
+and
+or
+and
+or
+xor
+or
+and
+solution 4499:
+or
+xor
+and
+or
+and
+or
+xor
+or
+or
+solution 4506:
+or
+xor
+and
+or
+and
+xor
+or
+or
+and
+solution 4507:
+or
+xor
+and
+or
+and
+xor
+or
+or
+or
+solution 4536:
+or
+xor
+and
+or
+or
+or
+or
+xor
+and
+solution 4539:
+or
+xor
+and
+or
+or
+or
+xor
+or
+and
+solution 4546:
+or
+xor
+and
+or
+or
+xor
+or
+or
+and
+solution 4854:
+xor
+and
+and
+and
+and
+or
+or
+or
+and
+solution 4855:
+xor
+and
+and
+and
+and
+or
+or
+or
+or
+solution 4856:
+xor
+and
+and
+and
+and
+or
+or
+or
+xor
+solution 4857:
+xor
+and
+and
+and
+and
+or
+or
+xor
+and
+solution 4858:
+xor
+and
+and
+and
+and
+or
+or
+xor
+or
+solution 4860:
+xor
+and
+and
+and
+and
+or
+xor
+or
+and
+solution 4861:
+xor
+and
+and
+and
+and
+or
+xor
+or
+or
+solution 4864:
+xor
+and
+and
+and
+and
+xor
+or
+or
+and
+solution 4865:
+xor
+and
+and
+and
+and
+xor
+or
+or
+or
+solution 4889:
+xor
+and
+and
+and
+or
+or
+or
+or
+and
+solution 4890:
+xor
+and
+and
+and
+or
+or
+or
+or
+or
+solution 4891:
+xor
+and
+and
+and
+or
+or
+or
+or
+xor
+solution 4892:
+xor
+and
+and
+and
+or
+or
+or
+xor
+and
+solution 4893:
+xor
+and
+and
+and
+or
+or
+or
+xor
+or
+solution 4896:
+xor
+and
+and
+and
+or
+or
+xor
+or
+and
+solution 4897:
+xor
+and
+and
+and
+or
+or
+xor
+or
+or
+solution 4903:
+xor
+and
+and
+and
+or
+xor
+or
+or
+and
+solution 4904:
+xor
+and
+and
+and
+or
+xor
+or
+or
+or
+solution 4939:
+xor
+and
+and
+or
+and
+or
+or
+or
+and
+solution 4940:
+xor
+and
+and
+or
+and
+or
+or
+or
+or
+solution 4941:
+xor
+and
+and
+or
+and
+or
+or
+or
+xor
+solution 4942:
+xor
+and
+and
+or
+and
+or
+or
+xor
+and
+solution 4943:
+xor
+and
+and
+or
+and
+or
+or
+xor
+or
+solution 4946:
+xor
+and
+and
+or
+and
+or
+xor
+or
+and
+solution 4947:
+xor
+and
+and
+or
+and
+or
+xor
+or
+or
+solution 4953:
+xor
+and
+and
+or
+and
+xor
+or
+or
+and
+solution 4954:
+xor
+and
+and
+or
+and
+xor
+or
+or
+or
+solution 4985:
+xor
+and
+and
+or
+or
+or
+or
+or
+and
+solution 4986:
+xor
+and
+and
+or
+or
+or
+or
+or
+xor
+solution 4987:
+xor
+and
+and
+or
+or
+or
+or
+xor
+and
+solution 4988:
+xor
+and
+and
+or
+or
+or
+or
+xor
+or
+solution 4991:
+xor
+and
+and
+or
+or
+or
+xor
+or
+and
+solution 4992:
+xor
+and
+and
+or
+or
+or
+xor
+or
+or
+solution 4999:
+xor
+and
+and
+or
+or
+xor
+or
+or
+and
+solution 5000:
+xor
+and
+and
+or
+or
+xor
+or
+or
+or
+solution 5040:
+xor
+and
+and
+xor
+or
+or
+or
+or
+and
+solution 5041:
+xor
+and
+and
+xor
+or
+or
+or
+or
+or
+solution 5065:
+xor
+and
+or
+and
+and
+or
+or
+or
+and
+solution 5066:
+xor
+and
+or
+and
+and
+or
+or
+or
+or
+solution 5067:
+xor
+and
+or
+and
+and
+or
+or
+or
+xor
+solution 5068:
+xor
+and
+or
+and
+and
+or
+or
+xor
+and
+solution 5069:
+xor
+and
+or
+and
+and
+or
+or
+xor
+or
+solution 5072:
+xor
+and
+or
+and
+and
+or
+xor
+or
+and
+solution 5073:
+xor
+and
+or
+and
+and
+or
+xor
+or
+or
+solution 5079:
+xor
+and
+or
+and
+and
+xor
+or
+or
+and
+solution 5080:
+xor
+and
+or
+and
+and
+xor
+or
+or
+or
+solution 5111:
+xor
+and
+or
+and
+or
+or
+or
+or
+and
+solution 5112:
+xor
+and
+or
+and
+or
+or
+or
+or
+xor
+solution 5113:
+xor
+and
+or
+and
+or
+or
+or
+xor
+and
+solution 5114:
+xor
+and
+or
+and
+or
+or
+or
+xor
+or
+solution 5117:
+xor
+and
+or
+and
+or
+or
+xor
+or
+and
+solution 5118:
+xor
+and
+or
+and
+or
+or
+xor
+or
+or
+solution 5125:
+xor
+and
+or
+and
+or
+xor
+or
+or
+and
+solution 5126:
+xor
+and
+or
+and
+or
+xor
+or
+or
+or
+solution 5172:
+xor
+and
+or
+or
+and
+or
+or
+or
+and
+solution 5173:
+xor
+and
+or
+or
+and
+or
+or
+or
+xor
+solution 5174:
+xor
+and
+or
+or
+and
+or
+or
+xor
+and
+solution 5175:
+xor
+and
+or
+or
+and
+or
+or
+xor
+or
+solution 5178:
+xor
+and
+or
+or
+and
+or
+xor
+or
+and
+solution 5179:
+xor
+and
+or
+or
+and
+or
+xor
+or
+or
+solution 5186:
+xor
+and
+or
+or
+and
+xor
+or
+or
+and
+solution 5187:
+xor
+and
+or
+or
+and
+xor
+or
+or
+or
+solution 5216:
+xor
+and
+or
+or
+or
+or
+or
+xor
+and
+solution 5219:
+xor
+and
+or
+or
+or
+or
+xor
+or
+and
+solution 5226:
+xor
+and
+or
+or
+or
+xor
+or
+or
+and
+solution 5245:
+xor
+and
+or
+xor
+and
+and
+or
+and
+and
+solution 5246:
+xor
+and
+or
+xor
+and
+and
+or
+and
+or
+solution 5247:
+xor
+and
+or
+xor
+and
+and
+or
+or
+and
+solution 5248:
+xor
+and
+or
+xor
+and
+and
+or
+or
+or
+solution 5251:
+xor
+and
+or
+xor
+and
+or
+and
+or
+and
+solution 5252:
+xor
+and
+or
+xor
+and
+or
+and
+or
+or
+solution 5253:
+xor
+and
+or
+xor
+and
+or
+or
+and
+and
+solution 5254:
+xor
+and
+or
+xor
+and
+or
+or
+and
+or
+solution 5255:
+xor
+and
+or
+xor
+and
+or
+or
+or
+and
+solution 5256:
+xor
+and
+or
+xor
+and
+or
+or
+or
+or
+solution 5261:
+xor
+and
+or
+xor
+or
+and
+or
+and
+and
+solution 5262:
+xor
+and
+or
+xor
+or
+and
+or
+and
+or
+solution 5263:
+xor
+and
+or
+xor
+or
+and
+or
+or
+and
+solution 5264:
+xor
+and
+or
+xor
+or
+and
+or
+or
+or
+solution 5281:
+xor
+and
+xor
+and
+and
+or
+or
+or
+and
+solution 5282:
+xor
+and
+xor
+and
+and
+or
+or
+or
+or
+solution 5296:
+xor
+and
+xor
+and
+or
+or
+or
+or
+and
+solution 5297:
+xor
+and
+xor
+and
+or
+or
+or
+or
+or
+solution 5311:
+xor
+and
+xor
+or
+and
+or
+or
+or
+and
+solution 5312:
+xor
+and
+xor
+or
+and
+or
+or
+or
+or
+solution 5327:
+xor
+and
+xor
+or
+or
+or
+or
+or
+and
+solution 5351:
+xor
+or
+and
+and
+and
+or
+or
+or
+and
+solution 5352:
+xor
+or
+and
+and
+and
+or
+or
+or
+or
+solution 5353:
+xor
+or
+and
+and
+and
+or
+or
+or
+xor
+solution 5354:
+xor
+or
+and
+and
+and
+or
+or
+xor
+and
+solution 5355:
+xor
+or
+and
+and
+and
+or
+or
+xor
+or
+solution 5358:
+xor
+or
+and
+and
+and
+or
+xor
+or
+and
+solution 5359:
+xor
+or
+and
+and
+and
+or
+xor
+or
+or
+solution 5365:
+xor
+or
+and
+and
+and
+xor
+or
+or
+and
+solution 5366:
+xor
+or
+and
+and
+and
+xor
+or
+or
+or
+solution 5397:
+xor
+or
+and
+and
+or
+or
+or
+or
+and
+solution 5398:
+xor
+or
+and
+and
+or
+or
+or
+or
+xor
+solution 5399:
+xor
+or
+and
+and
+or
+or
+or
+xor
+and
+solution 5400:
+xor
+or
+and
+and
+or
+or
+or
+xor
+or
+solution 5403:
+xor
+or
+and
+and
+or
+or
+xor
+or
+and
+solution 5404:
+xor
+or
+and
+and
+or
+or
+xor
+or
+or
+solution 5411:
+xor
+or
+and
+and
+or
+xor
+or
+or
+and
+solution 5412:
+xor
+or
+and
+and
+or
+xor
+or
+or
+or
+solution 5458:
+xor
+or
+and
+or
+and
+or
+or
+or
+and
+solution 5459:
+xor
+or
+and
+or
+and
+or
+or
+or
+xor
+solution 5460:
+xor
+or
+and
+or
+and
+or
+or
+xor
+and
+solution 5461:
+xor
+or
+and
+or
+and
+or
+or
+xor
+or
+solution 5464:
+xor
+or
+and
+or
+and
+or
+xor
+or
+and
+solution 5465:
+xor
+or
+and
+or
+and
+or
+xor
+or
+or
+solution 5472:
+xor
+or
+and
+or
+and
+xor
+or
+or
+and
+solution 5473:
+xor
+or
+and
+or
+and
+xor
+or
+or
+or
+solution 5502:
+xor
+or
+and
+or
+or
+or
+or
+xor
+and
+solution 5505:
+xor
+or
+and
+or
+or
+or
+xor
+or
+and
+solution 5512:
+xor
+or
+and
+or
+or
+xor
+or
+or
+and
+solution 5531:
+xor
+or
+and
+xor
+and
+and
+or
+and
+and
+solution 5532:
+xor
+or
+and
+xor
+and
+and
+or
+and
+or
+solution 5533:
+xor
+or
+and
+xor
+and
+and
+or
+or
+and
+solution 5534:
+xor
+or
+and
+xor
+and
+and
+or
+or
+or
+solution 5537:
+xor
+or
+and
+xor
+and
+or
+and
+or
+and
+solution 5538:
+xor
+or
+and
+xor
+and
+or
+and
+or
+or
+solution 5539:
+xor
+or
+and
+xor
+and
+or
+or
+and
+and
+solution 5540:
+xor
+or
+and
+xor
+and
+or
+or
+and
+or
+solution 5541:
+xor
+or
+and
+xor
+and
+or
+or
+or
+and
+solution 5542:
+xor
+or
+and
+xor
+and
+or
+or
+or
+or
+solution 5547:
+xor
+or
+and
+xor
+or
+and
+or
+and
+and
+solution 5548:
+xor
+or
+and
+xor
+or
+and
+or
+and
+or
+solution 5549:
+xor
+or
+and
+xor
+or
+and
+or
+or
+and
+solution 5550:
+xor
+or
+and
+xor
+or
+and
+or
+or
+or
+solution 5565:
+xor
+or
+or
+and
+and
+and
+or
+and
+and
+solution 5566:
+xor
+or
+or
+and
+and
+and
+or
+and
+or
+solution 5567:
+xor
+or
+or
+and
+and
+and
+or
+and
+xor
+solution 5568:
+xor
+or
+or
+and
+and
+and
+or
+or
+and
+solution 5569:
+xor
+or
+or
+and
+and
+and
+or
+or
+or
+solution 5570:
+xor
+or
+or
+and
+and
+and
+or
+or
+xor
+solution 5571:
+xor
+or
+or
+and
+and
+and
+or
+xor
+and
+solution 5572:
+xor
+or
+or
+and
+and
+and
+or
+xor
+or
+solution 5573:
+xor
+or
+or
+and
+and
+and
+xor
+and
+and
+solution 5574:
+xor
+or
+or
+and
+and
+and
+xor
+and
+or
+solution 5575:
+xor
+or
+or
+and
+and
+and
+xor
+or
+and
+solution 5576:
+xor
+or
+or
+and
+and
+and
+xor
+or
+or
+solution 5653:
+xor
+or
+or
+and
+xor
+or
+and
+or
+and
+solution 5654:
+xor
+or
+or
+and
+xor
+or
+and
+or
+or
+solution 5655:
+xor
+or
+or
+and
+xor
+or
+or
+and
+and
+solution 5656:
+xor
+or
+or
+and
+xor
+or
+or
+and
+or
+solution 5657:
+xor
+or
+or
+and
+xor
+or
+or
+or
+and
+solution 5666:
+xor
+or
+or
+or
+and
+and
+or
+and
+and
+solution 5667:
+xor
+or
+or
+or
+and
+and
+or
+and
+or
+solution 5668:
+xor
+or
+or
+or
+and
+and
+or
+and
+xor
+solution 5669:
+xor
+or
+or
+or
+and
+and
+or
+or
+and
+solution 5670:
+xor
+or
+or
+or
+and
+and
+or
+or
+xor
+solution 5671:
+xor
+or
+or
+or
+and
+and
+or
+xor
+and
+solution 5672:
+xor
+or
+or
+or
+and
+and
+or
+xor
+or
+solution 5673:
+xor
+or
+or
+or
+and
+and
+xor
+and
+and
+solution 5674:
+xor
+or
+or
+or
+and
+and
+xor
+and
+or
+solution 5675:
+xor
+or
+or
+or
+and
+and
+xor
+or
+and
+solution 5676:
+xor
+or
+or
+or
+and
+and
+xor
+or
+or
+solution 5727:
+xor
+or
+or
+or
+xor
+or
+and
+or
+and
+solution 5728:
+xor
+or
+or
+or
+xor
+or
+or
+and
+and
+solution 5733:
+xor
+or
+or
+xor
+and
+and
+or
+and
+and
+solution 5734:
+xor
+or
+or
+xor
+and
+and
+or
+and
+or
+solution 5735:
+xor
+or
+or
+xor
+and
+and
+or
+or
+and
+solution 5736:
+xor
+or
+or
+xor
+and
+and
+or
+or
+or
+solution 5739:
+xor
+or
+or
+xor
+and
+or
+and
+or
+and
+solution 5740:
+xor
+or
+or
+xor
+and
+or
+and
+or
+or
+solution 5741:
+xor
+or
+or
+xor
+and
+or
+or
+and
+and
+solution 5742:
+xor
+or
+or
+xor
+and
+or
+or
+and
+or
+solution 5743:
+xor
+or
+or
+xor
+and
+or
+or
+or
+and
+solution 5748:
+xor
+or
+or
+xor
+or
+and
+or
+and
+and
+solution 5749:
+xor
+or
+or
+xor
+or
+and
+or
+and
+or
+solution 5750:
+xor
+or
+or
+xor
+or
+and
+or
+or
+and
+solution 5758:
+xor
+or
+xor
+and
+and
+and
+or
+and
+and
+solution 5759:
+xor
+or
+xor
+and
+and
+and
+or
+and
+or
+solution 5760:
+xor
+or
+xor
+and
+and
+and
+or
+or
+and
+solution 5761:
+xor
+or
+xor
+and
+and
+and
+or
+or
+or
+solution 5789:
+xor
+or
+xor
+or
+and
+and
+or
+and
+and
+solution 5790:
+xor
+or
+xor
+or
+and
+and
+or
+and
+or
+solution 5791:
+xor
+or
+xor
+or
+and
+and
+or
+or
+and
+solution 5792:
+xor
+or
+xor
+or
+and
+and
+or
+or
+or
+solution 5820:
+xor
+xor
+and
+and
+and
+or
+or
+or
+and
+solution 5821:
+xor
+xor
+and
+and
+and
+or
+or
+or
+or
+solution 5835:
+xor
+xor
+and
+and
+or
+or
+or
+or
+and
+solution 5836:
+xor
+xor
+and
+and
+or
+or
+or
+or
+or
+solution 5850:
+xor
+xor
+and
+or
+and
+or
+or
+or
+and
+solution 5851:
+xor
+xor
+and
+or
+and
+or
+or
+or
+or
+solution 5866:
+xor
+xor
+and
+or
+or
+or
+or
+or
+and
+solution 5870:
+xor
+xor
+or
+and
+and
+and
+or
+and
+and
+solution 5871:
+xor
+xor
+or
+and
+and
+and
+or
+and
+or
+solution 5872:
+xor
+xor
+or
+and
+and
+and
+or
+or
+and
+solution 5873:
+xor
+xor
+or
+and
+and
+and
+or
+or
+or
+solution 5901:
+xor
+xor
+or
+or
+and
+and
+or
+and
+and
+solution 5902:
+xor
+xor
+or
+or
+and
+and
+or
+and
+or
+solution 5903:
+xor
+xor
+or
+or
+and
+and
+or
+or
+and
+solution 5904:
+xor
+xor
+or
+or
+and
+and
+or
+or
+or
+1088/5922
+ratio: 18.37217%
