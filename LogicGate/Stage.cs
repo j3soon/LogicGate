@@ -9,7 +9,7 @@ namespace LogicGate
     public class Stage
     {
         public int And, Or, S1, S2;
-        public GateTypes[] Types;
+        public GateTypes[] Types { get; set; }
 
         public Stage(int and, int or, int s1, int s2, GateTypes[] type)
         {

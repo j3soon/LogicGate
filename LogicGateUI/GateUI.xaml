@@ -1,0 +1,19 @@
+﻿<UserControl x:Name="uc"
+             x:Class="LogicGateUI.GateUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:LogicGateUI"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <ComboBox ItemsSource="{Binding GateItems, ElementName=uc}" SelectedIndex="{Binding SelectedIndex}" Margin="146,120,55,144">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <Image x:Name="and" Source="{Binding Image}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+    </Grid>
+</UserControl>

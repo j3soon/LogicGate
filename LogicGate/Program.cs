@@ -8,7 +8,7 @@ using System.Xml;
 
 namespace LogicGate
 {
-    class Program
+    public class Program
     {
         public static Stage[] Stages =
         {
@@ -21,7 +21,7 @@ namespace LogicGate
         };
         private static List<Gate> Ends;
         private static List<Gate> Empties;
-        private static Dictionary<String, Gate> Ids;
+        public static Dictionary<String, Gate> Ids;
         private static int totalTries;
         private static int totalSolutions;
         private const int MaxStageNum = 4;
@@ -37,24 +37,37 @@ namespace LogicGate
 
         static void Main(string[] args)
         {
-            for (int stageNum = 1; stageNum <= MaxStageNum; stageNum++)
+            for (int i = 1; i <= MaxStageNum; i++)
             {
-                sw = new StreamWriter("../../log" + stageNum + ".txt");
-                Init();
-                ConstructDiagram("../../Stage" + stageNum + ".xml");
-                currentStage = Stages[stageNum];
+                LoadStage(i);
                 TryAllPossibilities();
                 //Log results.
                 Log(totalTries + "/" + totalSolutions);
                 Log("Ratio: " + 1.0f * totalTries / totalSolutions * 100 + "%");
-                Console.WriteLine("Stage: " + stageNum);
+                Console.WriteLine("Stage: " + i);
                 Console.WriteLine(totalTries + "/" + totalSolutions);
                 Console.WriteLine("Ratio: " + 1.0f * totalTries / totalSolutions * 100 + "%");
                 Console.WriteLine("Done.");
-                sw.Close();
             }
             Console.ReadKey();
             Console.ReadKey();
+        }
+
+        //TODO: Clean this func.
+        public static void LoadExternalStage(int stageNum)
+        {
+            Init();
+            ConstructDiagram("../../../LogicGate/Stage" + stageNum + ".xml");
+            currentStage = Stages[stageNum];
+        }
+
+        private static void LoadStage(int stageNum)
+        {
+            sw = new StreamWriter("../../log" + stageNum + ".txt");
+            Init();
+            ConstructDiagram("../../Stage" + stageNum + ".xml");
+            sw.Close();
+            currentStage = Stages[stageNum];
         }
 
         static void Init()
