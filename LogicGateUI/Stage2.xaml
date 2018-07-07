@@ -1,0 +1,26 @@
+﻿<UserControl x:Name="uc"
+             x:Class="LogicGateUI.Stage2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:LogicGateUI"
+             xmlns:logicGate="clr-namespace:LogicGate;assembly=LogicGate"
+             mc:Ignorable="d"
+             d:DesignHeight="438" d:DesignWidth="745" Loaded="Stage1_Loaded">
+    <Grid>
+        <Image Source="/LogicGateUI;component/Resources/Stage2.png" Stretch="None"/>
+        <local:GateUI Gate="{Binding Gates[1-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="57,37,548,321"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="57,137,548,221"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="57,233,548,125"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="57,333,548,25"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="270,86,335,272"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="250,185,355,173"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="250,282,355,76"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="487,137,118,221"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="487,233,118,125"></local:GateUI>
+        <Label Content="{Binding Result, ElementName=uc}" FontSize="50" HorizontalContentAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <!--TODO: Why below doesn't work? -->
+        <!--<Image Source="pack://application:,,,/LogicGateUI;component/Resources/Stage1.png"/>-->
+    </Grid>
+</UserControl>

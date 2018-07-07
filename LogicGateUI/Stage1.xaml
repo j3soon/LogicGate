@@ -7,10 +7,14 @@
              xmlns:local="clr-namespace:LogicGateUI"
              xmlns:logicGate="clr-namespace:LogicGate;assembly=LogicGate"
              mc:Ignorable="d"
-             d:DesignHeight="300" d:DesignWidth="300">
+             d:DesignHeight="332" d:DesignWidth="667" Loaded="Stage1_Loaded">
     <Grid>
-        <Image Source="/LogicGateUI;component/Resources/Stage1.png"/>
-        <local:GateUI Gate="{Binding g_1_1, ElementName=uc}" Stage="{Binding Stage, ElementName=uc}"></local:GateUI>
+        <Image Source="/LogicGateUI;component/Resources/Stage1.png" Stretch="None"/>
+        <local:GateUI Gate="{Binding Gates[1-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="58,33,469,219"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="58,158,469,94"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="226,232,301,20"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="482,58,45,194"></local:GateUI>
+        <Label Content="{Binding Result, ElementName=uc}" FontSize="50" HorizontalContentAlignment="Right" VerticalAlignment="Bottom"></Label>
         <!--TODO: Why below doesn't work? -->
         <!--<Image Source="pack://application:,,,/LogicGateUI;component/Resources/Stage1.png"/>-->
     </Grid>

@@ -10,18 +10,28 @@ using LogicGate;
 
 namespace LogicGateUI
 {
-    public static class Images
+    public class Images
     {
-        public static Dictionary<GateTypes, ImageSource> GateImages { get; set; } = new Dictionary<GateTypes, ImageSource>();
-
-        static Images()
+        private static Images _instance;
+        public static Images Instance
         {
-            String basePath = "/LogicGateUI;component/Resources/";
+            get
+            {
+                if (_instance != null)
+                    return _instance;
+                return _instance = new Images();
+            }
+        }
+        public Dictionary<GateTypes, ImageSource> GateImages { get; set; } = new Dictionary<GateTypes, ImageSource>();
+
+        public Images()
+        {
+            String basePath = "../../Resources/";
             foreach (GateTypes t in Enum.GetValues(typeof(GateTypes)))
             {
                 String path = basePath + t + ".png";
                 if (File.Exists(path))
-                    GateImages.Add(t, new BitmapImage(new Uri(path)));
+                    GateImages.Add(t, new BitmapImage(new Uri(Path.GetFullPath(path))));
             }
         }
     }

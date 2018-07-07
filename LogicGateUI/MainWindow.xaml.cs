@@ -21,12 +21,18 @@ namespace LogicGateUI
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static IStage S1;
+        public static void Check()
+        {
+            S1.Refresh();
+        }
         public Stage Stage1 { get; set; } = Program.Stages[1];
 
         public MainWindow()
         {
             InitializeComponent();
             DataContext = this;
+            S1 = s1;
         }
     }
 }

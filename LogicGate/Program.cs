@@ -185,7 +185,7 @@ namespace LogicGate
             }
         }
 
-        private static bool Check()
+        public static bool Check()
         {
             foreach (Gate end in Ends)
             {

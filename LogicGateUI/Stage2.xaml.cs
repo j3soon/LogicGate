@@ -20,9 +20,9 @@ using LogicGate;
 namespace LogicGateUI
 {
     /// <summary>
-    /// Interaction logic for Stage1.xaml
+    /// Interaction logic for Stage2.xaml
     /// </summary>
-    public partial class Stage1 : UserControl, INotifyPropertyChanged, IStage
+    public partial class Stage2 : UserControl, INotifyPropertyChanged, IStage
     {
         private Stage _stage;
         public Stage Stage
@@ -58,7 +58,7 @@ namespace LogicGateUI
             }
         }
 
-        public Stage1()
+        public Stage2()
         {
             InitializeComponent();
             //DataContext = this;
@@ -67,8 +67,8 @@ namespace LogicGateUI
         private void Stage1_Loaded(object sender, RoutedEventArgs e)
         {
             Result = "X";
-            Program.LoadExternalStage(1);
-            Stage = Program.Stages[1];
+            Program.LoadExternalStage(2);
+            Stage = Program.Stages[2];
             Gates = new ObservableDictionary<String, Gate>(Program.Ids);
             Refresh();
         }

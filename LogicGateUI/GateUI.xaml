@@ -6,12 +6,14 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:local="clr-namespace:LogicGateUI"
              mc:Ignorable="d"
-             d:DesignHeight="300" d:DesignWidth="300">
-    <Grid>
-        <ComboBox ItemsSource="{Binding GateItems, ElementName=uc}" SelectedIndex="{Binding SelectedIndex}" Margin="146,120,55,144">
+             d:DesignHeight="100" d:DesignWidth="100">
+    <Grid Loaded="Grid_Loaded">
+        <ComboBox x:Name="dropdown" ItemsSource="{Binding GateItems, ElementName=uc}" SelectedIndex="{Binding SelectedIndex, ElementName=uc}" MaxDropDownHeight="800">
             <ComboBox.ItemTemplate>
                 <DataTemplate>
-                    <Image x:Name="and" Source="{Binding Image}"/>
+                    <WrapPanel Margin="2, 2, 2, 2">
+                        <Image x:Name="and" Source="{Binding Image}"/>
+                    </WrapPanel>
                 </DataTemplate>
             </ComboBox.ItemTemplate>
         </ComboBox>

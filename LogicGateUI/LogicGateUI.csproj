@@ -33,6 +33,26 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -53,8 +73,19 @@
       <DependentUpon>GateUI.xaml</DependentUpon>
     </Compile>
     <Compile Include="Images.cs" />
+    <Compile Include="IStage.cs" />
+    <Compile Include="ObservableDictionary.cs" />
     <Compile Include="Stage1.xaml.cs">
       <DependentUpon>Stage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Stage2.xaml.cs">
+      <DependentUpon>Stage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Stage3.xaml.cs">
+      <DependentUpon>Stage3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Stage4.xaml.cs">
+      <DependentUpon>Stage4.xaml</DependentUpon>
     </Compile>
     <Page Include="GateUI.xaml">
       <SubType>Designer</SubType>
@@ -73,6 +104,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Stage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Stage2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Stage3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Stage4.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -120,6 +163,18 @@
     <Resource Include="Resources\Switch1.png" />
     <Resource Include="Resources\Switch2.png" />
     <Resource Include="Resources\Xor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Stage2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Stage3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Stage4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Stage4.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
