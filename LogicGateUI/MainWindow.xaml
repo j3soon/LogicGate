@@ -6,8 +6,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LogicGateUI"
         mc:Ignorable="d"
-        Title="LogicGateUI" Height="1000" Width="1024">
+        Title="LogicGateUI" Height="600" Width="1000">
     <Grid>
-        <local:Stage2 x:Name="s1"></local:Stage2>
+        <local:Stage1 x:Name="s1"></local:Stage1>
     </Grid>
 </Window>

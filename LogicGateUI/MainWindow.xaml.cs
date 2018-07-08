@@ -21,6 +21,7 @@ namespace LogicGateUI
     /// </summary>
     public partial class MainWindow : Window
     {
+        public static MainWindow Instance;
         public static IStage S1;
         public static void Check()
         {
@@ -30,6 +31,7 @@ namespace LogicGateUI
 
         public MainWindow()
         {
+            Instance = this;
             InitializeComponent();
             DataContext = this;
             S1 = s1;

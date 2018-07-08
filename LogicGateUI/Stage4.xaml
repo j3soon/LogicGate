@@ -7,23 +7,95 @@
              xmlns:local="clr-namespace:LogicGateUI"
              xmlns:logicGate="clr-namespace:LogicGate;assembly=LogicGate"
              mc:Ignorable="d"
-             d:DesignHeight="943" d:DesignWidth="1011" Loaded="Stage1_Loaded">
+             d:DesignHeight="512" d:DesignWidth="959" Loaded="Stage1_Loaded">
     <Grid>
         <Image Source="/LogicGateUI;component/Resources/Stage4.png" Stretch="None"/>
-        <local:GateUI Gate="{Binding Gates[1-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="406,474,465,389"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[1-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="288,382,583,481"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[1-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="406,270,465,593"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[1-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="508,382,363,481"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[2-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="218,608,653,255"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[2-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="218,200,653,663"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[2-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="574,200,297,663"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[2-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="618,590,253,273"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="102,382,769,481"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="128,66,743,797"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="702,66,169,797"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="702,382,169,481"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-5], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="820,654,51,209"></local:GateUI>
-        <local:GateUI Gate="{Binding Gates[3-6], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="168,742,703,121"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="544,210,275,222"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="414,92,405,340" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="286,210,533,222" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[1-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="414,332,405,100" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="204,308,615,124" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="204,116,615,316" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="646,116,173,316"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[2-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="646,308,173,124"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-1], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="40,210,779,222" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-2], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="40,20,779,412" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-3], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="807,20,12,412"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-4], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="807,210,12,222"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-5], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="807,400,12,32"></local:GateUI>
+        <local:GateUI Gate="{Binding Gates[3-6], ElementName=uc}" Stage="{Binding Stage, ElementName=uc}" Width="140" Height="80" Margin="40,406,779,26" RenderTransformOrigin="0.5,0.5">
+            <local:GateUI.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </local:GateUI.RenderTransform>
+        </local:GateUI>
         <Label Content="{Binding Result, ElementName=uc}" FontSize="50" HorizontalContentAlignment="Right" VerticalAlignment="Bottom"></Label>
         <!--TODO: Why below doesn't work? -->
         <!--<Image Source="pack://application:,,,/LogicGateUI;component/Resources/Stage1.png"/>-->

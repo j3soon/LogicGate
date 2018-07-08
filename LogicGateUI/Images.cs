@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using LogicGate;
 
 namespace LogicGateUI
@@ -26,12 +27,12 @@ namespace LogicGateUI
 
         public Images()
         {
-            String basePath = "../../Resources/";
+            Uri baseUri = BaseUriHelper.GetBaseUri(MainWindow.Instance);
+            String basePath = "/LogicGateUI;component/Resources/";
             foreach (GateTypes t in Enum.GetValues(typeof(GateTypes)))
             {
-                String path = basePath + t + ".png";
-                if (File.Exists(path))
-                    GateImages.Add(t, new BitmapImage(new Uri(Path.GetFullPath(path))));
+                if (t != GateTypes.NOT && t != GateTypes.TRUE && t != GateTypes.FALSE)
+                    GateImages.Add(t, new BitmapImage(new Uri(baseUri, basePath + t + ".png")));
             }
         }
     }

@@ -171,9 +171,6 @@
     <Resource Include="Resources\Stage3.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\Stage4.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\Stage4.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

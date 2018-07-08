@@ -39,11 +39,13 @@ namespace LogicGate
         {
             for (int i = 1; i <= MaxStageNum; i++)
             {
-                LoadStage(i);
+                sw = new StreamWriter("log" + i + ".txt");
+                LoadExternalStage(i);
                 TryAllPossibilities();
                 //Log results.
                 Log(totalTries + "/" + totalSolutions);
                 Log("Ratio: " + 1.0f * totalTries / totalSolutions * 100 + "%");
+                sw.Close();
                 Console.WriteLine("Stage: " + i);
                 Console.WriteLine(totalTries + "/" + totalSolutions);
                 Console.WriteLine("Ratio: " + 1.0f * totalTries / totalSolutions * 100 + "%");
@@ -57,16 +59,8 @@ namespace LogicGate
         public static void LoadExternalStage(int stageNum)
         {
             Init();
-            ConstructDiagram("../../../LogicGate/Stage" + stageNum + ".xml");
-            currentStage = Stages[stageNum];
-        }
-
-        private static void LoadStage(int stageNum)
-        {
-            sw = new StreamWriter("../../log" + stageNum + ".txt");
-            Init();
-            ConstructDiagram("../../Stage" + stageNum + ".xml");
-            sw.Close();
+            // Require user to copy.
+            ConstructDiagram("Stage" + stageNum + ".xml");
             currentStage = Stages[stageNum];
         }
 
