@@ -8,6 +8,6 @@
         mc:Ignorable="d"
         Title="LogicGateUI" Height="600" Width="1000">
     <Grid>
-        <local:Stage1 x:Name="s1"></local:Stage1>
+        <local:Stage4 x:Name="s1"></local:Stage4>
     </Grid>
 </Window>

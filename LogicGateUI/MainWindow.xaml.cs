@@ -27,7 +27,6 @@ namespace LogicGateUI
         {
             S1.Refresh();
         }
-        public Stage Stage1 { get; set; } = Program.Stages[1];
 
         public MainWindow()
         {

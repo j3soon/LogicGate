@@ -181,13 +181,23 @@ namespace LogicGate
 
         public static bool Check()
         {
+            //TODO: Fix bad performance.
+            //The code below will traverse every node.}
+            bool pass = true;
             foreach (Gate end in Ends)
             {
                 //Recursive
-                if (end.GetOutput() != ((Dest)end).outVal)
-                    return false;
+                try
+                {
+                    if (end.GetOutput() != ((Dest)end).outVal)
+                        pass = false;
+                }
+                catch (NotImplementedException)
+                {
+                    pass = false;
+                }
             }
-            return true;
+            return pass;
         }
     }
 }

@@ -75,17 +75,12 @@ namespace LogicGateUI
 
         public void Refresh()
         {
-            try
-            {
-                if (Program.Check())
-                    Result = "O";
-                else
-                    Result = "X";
-            }
-            catch (NotImplementedException)
-            {
-                Result = "~";
-            }
+            foreach (Gate gate in Program.Ids.Values)
+                gate.ResetSignal();
+            if (Program.Check())
+                Result = "O";
+            else
+                Result = "X";
         }
         public event PropertyChangedEventHandler PropertyChanged;
 

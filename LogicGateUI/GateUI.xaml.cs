@@ -64,8 +64,41 @@ namespace LogicGateUI
                 _selectedIndex = value;
                 RaisePropertyChanged("SelectedIndex");
                 if (Gate != null)
+                {
                     Gate.Type = GateItems[_selectedIndex].Type;
+                }
                 MainWindow.Check();
+            }
+        }
+
+        private string _in1Signal;
+        public String In1Signal
+        {
+            get { return _in1Signal; }
+            set
+            {
+                _in1Signal = value;
+                RaisePropertyChanged("In1Signal");
+            }
+        }
+        private string _in2Signal;
+        public String In2Signal
+        {
+            get { return _in1Signal; }
+            set
+            {
+                _in1Signal = value;
+                RaisePropertyChanged("In2Signal");
+            }
+        }
+        private string _outSignal;
+        public String OutSignal
+        {
+            get { return _outSignal; }
+            set
+            {
+                _outSignal = value;
+                RaisePropertyChanged("OutSignal");
             }
         }
 
@@ -112,6 +145,29 @@ namespace LogicGateUI
         private void Grid_Loaded(object sender, RoutedEventArgs e)
         {
             //Stage = Program.Stages[1];
+            Gate.SignalChanged += Gate_SignalChanged;
+        }
+
+        private void Gate_SignalChanged(bool? input1, bool? input2, bool? output)
+        {
+            if (input1 == null)
+                In1Signal = "~";
+            else if (input1 == true)
+                In1Signal = "1";
+            else
+                In1Signal = "0";
+            if (input2 == null)
+                In2Signal = "~";
+            else if (input2 == true)
+                In2Signal = "1";
+            else
+                In2Signal = "0";
+            if (output == null)
+                OutSignal = "~";
+            else if (output == true)
+                OutSignal = "1";
+            else
+                OutSignal = "0";
         }
     }
 }
