@@ -14,7 +14,7 @@ namespace LogicGate
         {
             null,
             new Stage(4, 4, 0, 0, new[]{GateTypes.AND, GateTypes.OR}),
-            new Stage(5, 5, 1, 1, new[]{GateTypes.AND, GateTypes.OR, GateTypes.XOR}),
+            new Stage(4, 4, 1, 1, new[]{GateTypes.AND, GateTypes.OR, GateTypes.XOR}),
             new Stage(4, 4, 1, 1, new[]{GateTypes.AND, GateTypes.OR, GateTypes.XOR, GateTypes.NAND, GateTypes.NOR}),
             new Stage(7, 7, 1, 1, new[]{GateTypes.XOR, GateTypes.NAND, GateTypes.NOR, GateTypes.SWITCH1, GateTypes.SWITCH2}),
             new Stage(8, 8, 2, 2, new[]{GateTypes.XOR, GateTypes.NAND, GateTypes.NOR}),
